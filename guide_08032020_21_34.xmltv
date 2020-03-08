@@ -1,0 +1,770 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HD1">
+    <display-name lang="en">Bein sports 1 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2">
+    <display-name lang="en">Bein sports 2 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3">
+    <display-name lang="en">Bein sports 3 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4">
+    <display-name lang="en">Bein sports 4 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5">
+    <display-name lang="en">Bein sports 5 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6">
+    <display-name lang="en">Bein sports 6 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD7">
+    <display-name lang="en">Bein sports 7 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD8">
+    <display-name lang="en">Bein sports 8 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD9">
+    <display-name lang="en">Bein sports 9 Ar</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20200308003000 +0200" stop="20200308012700 +0200" channel="HD1">
+    <title lang="en">NBA Journey  Kevin Garnett</title>
+    <sub-title lang="en">NBA Original Programming 2019/2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308012700 +0200" stop="20200308040000 +0200" channel="HD1">
+    <title lang="en">Philadelphia 76ers  vs Golden State Warriors</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">الدوري الأميركي لكرة السلة</category>
+    <episode-num>S2019</episode-num>
+  </programme>
+  <programme start="20200308040000 +0200" stop="20200308050000 +0200" channel="HD1">
+    <title lang="en">Best Moments of Super Bowl LIV  2020</title>
+    <category lang="en">دوري كرة القدم الأمريكية</category>
+  </programme>
+  <programme start="20200308050000 +0200" stop="20200308080000 +0200" channel="HD1">
+    <title lang="en">Mamelodi Sundowns vs Al Ahly</title>
+    <sub-title lang="en">CAF Champions League 2019/20 - QF 2nd Leg</sub-title>
+    <category lang="en">دوري أبطال أفريقيا</category>
+  </programme>
+  <programme start="20200308080000 +0200" stop="20200308110000 +0200" channel="HD1">
+    <title lang="en">Etoile Du Sahel vs Wydad Casablanca</title>
+    <sub-title lang="en">CAF Champions League 2019/20 - QF 2nd Leg</sub-title>
+    <category lang="en">دوري أبطال أفريقيا</category>
+  </programme>
+  <programme start="20200308110000 +0200" stop="20200308113000 +0200" channel="HD1">
+    <title lang="en">NBA Action 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308113000 +0200" stop="20200308120000 +0200" channel="HD1">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308120000 +0200" stop="20200308123000 +0200" channel="HD1">
+    <title lang="en">Esperance Tunis vs Zamalek</title>
+    <sub-title lang="en">CAF Champions League 2019/20 - Mini Match</sub-title>
+    <category lang="en">دوري أبطال أفريقيا</category>
+  </programme>
+  <programme start="20200308123000 +0200" stop="20200308155000 +0200" channel="HD1">
+    <title lang="en">Pyramids vs Zanaco</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 - QF 2ed leg</sub-title>
+    <category lang="en">كأس الإتحاد الأفريقى</category>
+  </programme>
+  <programme start="20200308155000 +0200" stop="20200308213000 +0200" channel="HD1">
+    <title lang="en">Hassania Agadir vs Al Nasr</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 - QF 2ed leg</sub-title>
+    <category lang="en">كأس الإتحاد الأفريقى</category>
+  </programme>
+  <programme start="20200308213000 +0200" stop="20200308232200 +0200" channel="HD1">
+    <title lang="en">Mamelodi Sundowns vs Al Ahly</title>
+    <sub-title lang="en">CAF Champions League 2019/20 - QF 2nd Leg</sub-title>
+    <category lang="en">دوري أبطال أفريقيا</category>
+  </programme>
+  <programme start="20200308232200 +0200" stop="20200309011200 +0200" channel="HD1">
+    <title lang="en">Etoile Du Sahel vs Wydad Casablanca</title>
+    <sub-title lang="en">CAF Champions League 2019/20 - QF 2nd Leg</sub-title>
+    <category lang="en">دوري أبطال أفريقيا</category>
+  </programme>
+  <programme start="20200308005200 +0200" stop="20200308032500 +0200" channel="HD2">
+    <title lang="en">Arsenal vs West Ham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308032500 +0200" stop="20200308060000 +0200" channel="HD2">
+    <title lang="en">Burnley vs Tottenham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308063000 +0200" channel="HD2">
+    <title lang="en">Gary Neville's Soccerbox Series 3 Dimitar Berbatov</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308063000 +0200" stop="20200308081500 +0200" channel="HD2">
+    <title lang="en">Liverpool vs Bournemouth</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308081500 +0200" stop="20200308100000 +0200" channel="HD2">
+    <title lang="en">Arsenal vs West Ham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308100000 +0200" stop="20200308114500 +0200" channel="HD2">
+    <title lang="en">Burnley vs Tottenham</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308114500 +0200" stop="20200308121500 +0200" channel="HD2">
+    <title lang="en">Chelsea</title>
+    <sub-title lang="en">Best Goals 2019/2020</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308121500 +0200" stop="20200308124500 +0200" channel="HD2">
+    <title lang="en">Sergio Aguero – Man City Best Scorer</title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308124500 +0200" stop="20200308131500 +0200" channel="HD2">
+    <title lang="en">EPL World 2019/2020</title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+    <episode-num>E.31</episode-num>
+  </programme>
+  <programme start="20200308131500 +0200" stop="20200308162800 +0200" channel="HD2">
+    <title lang="en">Chelsea vs Everton</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308162800 +0200" stop="20200308190000 +0200" channel="HD2">
+    <title lang="en">Manchester United vs Manchester City</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308193000 +0200" channel="HD2">
+    <title lang="en">Liverpool vs Bournemouth</title>
+    <sub-title lang="en">EPL Mini Match 2019/2020</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308193000 +0200" stop="20200308200000 +0200" channel="HD2">
+    <title lang="en">Best of UEFA Champions League  R16 1st LEG 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308203000 +0200" channel="HD2">
+    <title lang="en">Copa Libertadores Magazines</title>
+    <sub-title lang="en">7</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308203000 +0200" stop="20200308210000 +0200" channel="HD2">
+    <title lang="en">UEFA Europa League Magazine 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num>E.10</episode-num>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308213000 +0200" channel="HD2">
+    <title lang="en">Sergio Aguero – Man City Best Scorer</title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308213000 +0200" stop="20200308214500 +0200" channel="HD2">
+    <title lang="en">Tactical Series 2020</title>
+    <sub-title lang="en">( 4 - 3 - 3 SYSTEM )</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308214500 +0200" stop="20200309010000 +0200" channel="HD2">
+    <title lang="en">Chelsea vs Everton</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308001500 +0200" stop="20200308020000 +0200" channel="HD3">
+    <title lang="en">Eibar vs Mallorca</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308020000 +0200" stop="20200308023500 +0200" channel="HD3">
+    <title lang="en">Barcelona Best Goals 2019/2020</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308023500 +0200" stop="20200308051000 +0200" channel="HD3">
+    <title lang="en">Atlético Madrid vs Sevilla</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308051000 +0200" stop="20200308075600 +0200" channel="HD3">
+    <title lang="en">Barcelona vs Real Sociedad</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308075600 +0200" stop="20200308081300 +0200" channel="HD3">
+    <title lang="en">Tactical Series 2020</title>
+    <sub-title lang="en">( 4 - 3 - 3 SYSTEM )</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308081300 +0200" stop="20200308100100 +0200" channel="HD3">
+    <title lang="en">Getafe vs Celta de Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308100100 +0200" stop="20200308102800 +0200" channel="HD3">
+    <title lang="en">Atletico Madrid vs Sevilla</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308102800 +0200" stop="20200308105700 +0200" channel="HD3">
+    <title lang="en">Barcelona vs Real Sociedad</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308105700 +0200" stop="20200308125700 +0200" channel="HD3">
+    <title lang="en">Osasuna vs Espanyol</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308125700 +0200" stop="20200308145700 +0200" channel="HD3">
+    <title lang="en">Real Valladolid vs Athletic Bilbao</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308145700 +0200" stop="20200308165800 +0200" channel="HD3">
+    <title lang="en">Levante vs Granada</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308165800 +0200" stop="20200308172600 +0200" channel="HD3">
+    <title lang="en">Barcelona vs Real Sociedad</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308172600 +0200" stop="20200308223000 +0200" channel="HD3">
+    <title lang="en">Villarreal vs Leganés</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200308230000 +0200" channel="HD3">
+    <title lang="en">Atletico Madrid vs Sevilla</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308230000 +0200" stop="20200308233000 +0200" channel="HD3">
+    <title lang="en">Barcelona vs Real Sociedad</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2019/2020</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308233000 +0200" stop="20200309011500 +0200" channel="HD3">
+    <title lang="en">Osasuna vs Espanyol</title>
+    <sub-title lang="en">Spanish La Liga 2019/2020 Week 27</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20200308013100 +0200" stop="20200308020000 +0200" channel="HD4">
+    <title lang="en">Football’s Greatest Franco Baresi</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308020000 +0200" stop="20200308023000 +0200" channel="HD4">
+    <title lang="en">Juventus Best Goals 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308023000 +0200" stop="20200308041300 +0200" channel="HD4">
+    <title lang="en">Angers vs Nantes</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308041300 +0200" stop="20200308060200 +0200" channel="HD4">
+    <title lang="en">Southampton vs Newcastle</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308060200 +0200" stop="20200308063000 +0200" channel="HD4">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308063000 +0200" stop="20200308070000 +0200" channel="HD4">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308070000 +0200" stop="20200308084500 +0200" channel="HD4">
+    <title lang="en">Lazio vs Bologna</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 26</sub-title>
+    <category lang="en">الدوري الإيطالي لكرة القدم</category>
+  </programme>
+  <programme start="20200308084500 +0200" stop="20200308103000 +0200" channel="HD4">
+    <title lang="en">Cagliari vs Roma</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 26</sub-title>
+    <category lang="en">الدوري الإيطالي لكرة القدم</category>
+  </programme>
+  <programme start="20200308103000 +0200" stop="20200308110000 +0200" channel="HD4">
+    <title lang="en">Juventus Best Goals 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308110000 +0200" stop="20200308112500 +0200" channel="HD4">
+    <title lang="en">Roma Best Goals 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308112500 +0200" stop="20200308133000 +0200" channel="HD4">
+    <title lang="en">Parma vs SPAL</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 26</sub-title>
+    <category lang="en">الدوري الإيطالي لكرة القدم</category>
+  </programme>
+  <programme start="20200308133000 +0200" stop="20200308135700 +0200" channel="HD4">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308135700 +0200" stop="20200308160000 +0200" channel="HD4">
+    <title lang="en">Milan vs Genoa</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 26</sub-title>
+    <category lang="en">الدوري الإيطالي لكرة القدم</category>
+  </programme>
+  <programme start="20200308160000 +0200" stop="20200308162600 +0200" channel="HD4">
+    <title lang="en">Cagliari vs Roma</title>
+    <sub-title lang="en">Mini Match - Italian Serie A 2019/2020</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20200308162600 +0200" stop="20200308165500 +0200" channel="HD4">
+    <title lang="en">Lazio vs Bologna</title>
+    <sub-title lang="en">Mini Match - Italian Serie A 2019/2020</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20200308165500 +0200" stop="20200308223000 +0200" channel="HD4">
+    <title lang="en">Udinese vs Fiorentina</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 26</sub-title>
+    <category lang="en">الدوري الإيطالي لكرة القدم</category>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200309000000 +0200" channel="HD4">
+    <title lang="en">Secret of success</title>
+    <sub-title lang="en">Secret of a legend …Brahimi  beIN Original Documentaries 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308020000 +0200" channel="HD5">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Jürgen Klinsmann</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308020000 +0200" stop="20200308034500 +0200" channel="HD5">
+    <title lang="en">SportClub Freiburg vs 1. FC Union Berlin</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308034500 +0200" stop="20200308053000 +0200" channel="HD5">
+    <title lang="en">Hertha Berlin vs SV Werder Bremen</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308053000 +0200" stop="20200308060000 +0200" channel="HD5">
+    <title lang="en">Borussia Dortmund Best Goals</title>
+    <sub-title lang="en">2019/2020</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308074500 +0200" channel="HD5">
+    <title lang="en">FC Schalke 04 vs TSG 1899 Hoffenheim</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308074500 +0200" stop="20200308093000 +0200" channel="HD5">
+    <title lang="en">Bayer 04 Leverkusen vs Eintracht Frankfurt</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308093000 +0200" stop="20200308100000 +0200" channel="HD5">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308100000 +0200" stop="20200308114500 +0200" channel="HD5">
+    <title lang="en">VfL Wolfsburg vs RB Leipzig</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308114500 +0200" stop="20200308133000 +0200" channel="HD5">
+    <title lang="en">Borussia Mönchengladbach vs Borussia Dortmund</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308133000 +0200" stop="20200308140000 +0200" channel="HD5">
+    <title lang="en">Bayern Munich Best Goals</title>
+    <sub-title lang="en">2019/2020</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308140000 +0200" stop="20200308142700 +0200" channel="HD5">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Karl-Heinz Rummenigge</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308142700 +0200" stop="20200308163000 +0200" channel="HD5">
+    <title lang="en">FC Bayern München vs FC Augsburg</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308163000 +0200" stop="20200308165700 +0200" channel="HD5">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308165700 +0200" stop="20200308190000 +0200" channel="HD5">
+    <title lang="en">FSV Mainz 05 vs Fortuna Düsseldorf</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308193000 +0200" channel="HD5">
+    <title lang="en">Monchengladbach vs Dortmund</title>
+    <sub-title lang="en">Mini Match - Bundesliga 2019/2020</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308193000 +0200" stop="20200308200000 +0200" channel="HD5">
+    <title lang="en">Bayern Munich vs Augsburg</title>
+    <sub-title lang="en">Mini Match - Bundesliga 2019/2020</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308200000 +0200" stop="20200308203000 +0200" channel="HD5">
+    <title lang="en">Bundesliga Special 2019/2020</title>
+    <sub-title lang="en">The Bundesliga 2010's</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+    <episode-num>E.10</episode-num>
+  </programme>
+  <programme start="20200308203000 +0200" stop="20200308210000 +0200" channel="HD5">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Jürgen Klinsmann</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308213000 +0200" channel="HD5">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308213000 +0200" stop="20200308231500 +0200" channel="HD5">
+    <title lang="en">FC Bayern München vs FC Augsburg</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308231500 +0200" stop="20200309010000 +0200" channel="HD5">
+    <title lang="en">FSV Mainz 05 vs Fortuna Düsseldorf</title>
+    <sub-title lang="en">German Bundesliga 2019/2020 Week 25</sub-title>
+    <category lang="en">الدوري الألماني لكرة القدم</category>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308031100 +0200" channel="HD6">
+    <title lang="en">Dijon vs Toulouse</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308031100 +0200" stop="20200308050100 +0200" channel="HD6">
+    <title lang="en">Nice vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308050100 +0200" stop="20200308053000 +0200" channel="HD6">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Jean-Pierre Papin</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308053000 +0200" stop="20200308060000 +0200" channel="HD6">
+    <title lang="en">Euro 2020  Preview Show 2</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308060000 +0200" stop="20200308074600 +0200" channel="HD6">
+    <title lang="en">France vs Canada</title>
+    <sub-title lang="en">Tournoi de France (2020)</sub-title>
+    <category lang="en">كرة قدم</category>
+  </programme>
+  <programme start="20200308074600 +0200" stop="20200308094500 +0200" channel="HD6">
+    <title lang="en">Angers vs Nantes</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308094500 +0200" stop="20200308114300 +0200" channel="HD6">
+    <title lang="en">TP Mazembe COD vs Raja MAR</title>
+    <sub-title lang="en">CAF Champions League 2019/20 - QF 2nd Leg</sub-title>
+    <category lang="en">دوري أبطال أفريقيا</category>
+  </programme>
+  <programme start="20200308114300 +0200" stop="20200308133200 +0200" channel="HD6">
+    <title lang="en">Nice vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308133200 +0200" stop="20200308135800 +0200" channel="HD6">
+    <title lang="en">Euro 2020  Preview Show 2</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308135800 +0200" stop="20200308155500 +0200" channel="HD6">
+    <title lang="en">SaintÉtienne vs Bordeaux</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308155500 +0200" stop="20200308180000 +0200" channel="HD6">
+    <title lang="en">Rennes vs Montpellier</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308180000 +0200" stop="20200308183000 +0200" channel="HD6">
+    <title lang="en">Euro 2020  Preview Show 2</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308183000 +0200" stop="20200308190000 +0200" channel="HD6">
+    <title lang="en">Marseille vs Amiens</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2019/2020</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308223000 +0200" channel="HD6">
+    <title lang="en">Lyonnais Best Goals 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200308230000 +0200" channel="HD6">
+    <title lang="en">Ligue 1 Studio Review 2019/20</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num>E.28</episode-num>
+  </programme>
+  <programme start="20200308230000 +0200" stop="20200308233000 +0200" channel="HD6">
+    <title lang="en">UEFA Champions League Magazine 2019/2020</title>
+    <category lang="en">دوري أبطال أوروبا لكرة القدم</category>
+    <episode-num>E.20</episode-num>
+  </programme>
+  <programme start="20200308233000 +0200" stop="20200309011500 +0200" channel="HD6">
+    <title lang="en">Dijon vs Toulouse</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308004500 +0200" stop="20200308023100 +0200" channel="HD7">
+    <title lang="en">Reims vs Brest</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308023100 +0200" stop="20200308032500 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Qualifying Moto 3</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308032500 +0200" stop="20200308043000 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Qualifying Moto 2</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308043000 +0200" stop="20200308061500 +0200" channel="HD7">
+    <title lang="en">Houston Rockets vs Charlotte Hornets</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">الدوري الأميركي لكرة السلة</category>
+    <episode-num>S2019</episode-num>
+  </programme>
+  <programme start="20200308061500 +0200" stop="20200308080000 +0200" channel="HD7">
+    <title lang="en">Philadelphia 76ers  vs Golden State Warriors</title>
+    <sub-title lang="en">NBA Regular /2020</sub-title>
+    <category lang="en">الدوري الأميركي لكرة السلة</category>
+    <episode-num>S2019</episode-num>
+  </programme>
+  <programme start="20200308080000 +0200" stop="20200308100000 +0200" channel="HD7">
+    <title lang="en">Gaziantep Fk vs Trabzonspor</title>
+    <sub-title lang="en">Turkish Super League  2019/2020 - Week 25</sub-title>
+    <category lang="en">كرة قدم</category>
+  </programme>
+  <programme start="20200308100000 +0200" stop="20200308104500 +0200" channel="HD7">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Carl Fogarty</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308104500 +0200" stop="20200308114000 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Qualifying Moto 3</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308114000 +0200" stop="20200308130000 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Qualifying Moto 2</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308130000 +0200" stop="20200308142500 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Moto3</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308142500 +0200" stop="20200308155000 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Moto2</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308155000 +0200" stop="20200308180000 +0200" channel="HD7">
+    <title lang="en">Horoya A.C GUI vs Enyimba FC NIG</title>
+    <sub-title lang="en">CAF Confederation Cup 2019/2020 - QF 2ed leg</sub-title>
+    <category lang="en">كأس الإتحاد الأفريقى</category>
+  </programme>
+  <programme start="20200308180000 +0200" stop="20200308190000 +0200" channel="HD7">
+    <title lang="en">NBA Special Dikembe Mutombo</title>
+    <sub-title lang="en">NBA Documentary 2019/2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308221500 +0200" channel="HD7">
+    <title lang="en">NBA Action 2019/2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308221500 +0200" stop="20200308224500 +0200" channel="HD7">
+    <title lang="en">Gary Neville's Soccerbox Series 3 Dimitar Berbatov</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308224500 +0200" stop="20200308234500 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Moto3</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308234500 +0200" stop="20200309011500 +0200" channel="HD7">
+    <title lang="en">Moto GP</title>
+    <sub-title lang="en">Qatar - Moto2</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308040000 +0200" channel="HD8">
+    <title lang="en">Daria Kasatkina RUS vs AnnaLena Friedsam GER</title>
+    <sub-title lang="en">Semi Final 1 - WTA International – Lyon 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308040000 +0200" stop="20200308064500 +0200" channel="HD8">
+    <title lang="en">Sofia Kenin USA vs lison Van Uytvanck BEL</title>
+    <sub-title lang="en">Semi Final 2 -WTA International – Lyon 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308064500 +0200" stop="20200308084500 +0200" channel="HD8">
+    <title lang="en">Crystal Palace vs Watford</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308084500 +0200" stop="20200308111500 +0200" channel="HD8">
+    <title lang="en">Daria Kasatkina RUS vs AnnaLena Friedsam GER</title>
+    <sub-title lang="en">Semi Final 1 - WTA International – Lyon 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308111500 +0200" stop="20200308140000 +0200" channel="HD8">
+    <title lang="en">Sofia Kenin USA vs lison Van Uytvanck BEL</title>
+    <sub-title lang="en">Semi Final 2 -WTA International – Lyon 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308140000 +0200" stop="20200308160000 +0200" channel="HD8">
+    <title lang="en">Sampdoria vs Hellas Verona</title>
+    <sub-title lang="en">Italian Serie A 2019/2020 Week 26</sub-title>
+    <category lang="en">الدوري الإيطالي لكرة القدم</category>
+  </programme>
+  <programme start="20200308160000 +0200" stop="20200308170000 +0200" channel="HD8">
+    <title lang="en">NBA Special Dikembe Mutombo</title>
+    <sub-title lang="en">NBA Documentary 2019/2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308170000 +0200" stop="20200308190000 +0200" channel="HD8">
+    <title lang="en">Marie Bouzkova CZE vs Johanna Konta GBR</title>
+    <sub-title lang="en">Semi Final  - WTA International – Monterrey 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308190000 +0200" stop="20200308201500 +0200" channel="HD8">
+    <title lang="en">Elina Svitolina UKR vs Arantxa Rus NED Semi Final</title>
+    <sub-title lang="en">WTA International – Monterrey 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308201500 +0200" stop="20200308210000 +0200" channel="HD8">
+    <title lang="en">Dominic Thiem AUT vs Novak Djokovic SRB</title>
+    <sub-title lang="en">Australian Open 2020 M2D14 Men's Singles Final</sub-title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308220000 +0200" channel="HD8">
+    <title lang="en">FED CUP Qualifiers 2020 Review</title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308220000 +0200" stop="20200308223000 +0200" channel="HD8">
+    <title lang="en">Sofia Kenin USA vs Garbine Muguruza ESP</title>
+    <sub-title lang="en">Australian Open 2020 M2 D13 -Women's Singles Final</sub-title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308223000 +0200" stop="20200309003000 +0200" channel="HD8">
+    <title lang="en">Elina Svitolina UKR vs Marie Bouzkova CZE</title>
+    <sub-title lang="en">Final - WTA International – Monterrey 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308010000 +0200" stop="20200308013000 +0200" channel="HD9">
+    <title lang="en">Sofia Kenin USA vs Garbine Muguruza ESP</title>
+    <sub-title lang="en">Australian Open 2020 M2 D13 -Women's Singles Final</sub-title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308013000 +0200" stop="20200308020000 +0200" channel="HD9">
+    <title lang="en">Dominic Thiem AUT vs Novak Djokovic SRB</title>
+    <sub-title lang="en">Australian Open 2020 M2D14 Men's Singles Final</sub-title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308020000 +0200" stop="20200308050500 +0200" channel="HD9">
+    <title lang="en">S. Halep ROU vs E. Rybakina KAZ</title>
+    <sub-title lang="en">WTA Premier Dubai 2020 - Final</sub-title>
+    <category lang="en">رابطة محترفات التنس</category>
+  </programme>
+  <programme start="20200308050500 +0200" stop="20200308065000 +0200" channel="HD9">
+    <title lang="en">Wolverhampton Wanderers vs Brighton</title>
+    <sub-title lang="en">English Premier League 2019/2020 Week 29</sub-title>
+    <category lang="en">الدوري الإنجليزي الممتاز</category>
+  </programme>
+  <programme start="20200308065000 +0200" stop="20200308084000 +0200" channel="HD9">
+    <title lang="en">Dijon vs Toulouse</title>
+    <sub-title lang="en">French Ligue 1 2019/2020 Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20200308084000 +0200" stop="20200308102500 +0200" channel="HD9">
+    <title lang="en">Alba Berlin vs FC Barcelona</title>
+    <sub-title lang="en">Euroleague Basketball 2019/2020</sub-title>
+    <category lang="en">الدوري الأوروبي لكرة السلة - سيدات</category>
+  </programme>
+  <programme start="20200308102500 +0200" stop="20200308120000 +0200" channel="HD9">
+    <title lang="en">Real Madrid vs ASVEL Villeurbane</title>
+    <sub-title lang="en">Euroleague Basketball 2019/2020</sub-title>
+    <category lang="en">الدوري الأوروبي لكرة السلة - سيدات</category>
+  </programme>
+  <programme start="20200308120000 +0200" stop="20200308130000 +0200" channel="HD9">
+    <title lang="en">Best Of Australian Open 2020</title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308130000 +0200" stop="20200308140000 +0200" channel="HD9">
+    <title lang="en">ATP Masters 1000 Season Review 2019</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308140000 +0200" stop="20200308163000 +0200" channel="HD9">
+    <title lang="en">Sofia Kenin USA vs AnnaLena Friedsam GER Final</title>
+    <sub-title lang="en">WTA International – Lyon 2020</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308163000 +0200" stop="20200308173000 +0200" channel="HD9">
+    <title lang="en">2019 Nitto ATP Tour Finals Review</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308173000 +0200" stop="20200308180000 +0200" channel="HD9">
+    <title lang="en">R.Ram/J.Salisbury vs M. Purcell/L.Saville</title>
+    <sub-title lang="en">Australian Open 2020 M1D14 - Men's Doubles Final</sub-title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308180000 +0200" stop="20200308193000 +0200" channel="HD9">
+    <title lang="en">Sabalenka Surges BEL vs Petra Kvitova CZE</title>
+    <sub-title lang="en">Final -  WTA Qatar Total Open 2020</sub-title>
+    <category lang="en">رابطة محترفات التنس</category>
+  </programme>
+  <programme start="20200308193000 +0200" stop="20200308203000 +0200" channel="HD9">
+    <title lang="en">FED CUP Qualifiers 2020 Review</title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308203000 +0200" stop="20200308210000 +0200" channel="HD9">
+    <title lang="en">Sofia Kenin USA vs Garbine Muguruza ESP</title>
+    <sub-title lang="en">Australian Open 2020 M2 D13 -Women's Singles Final</sub-title>
+    <category lang="en">حصيلة الدوريات</category>
+  </programme>
+  <programme start="20200308210000 +0200" stop="20200308230000 +0200" channel="HD9">
+    <title lang="en">Elena RYBAKINA KAZ vs Shuai ZHANG CHN</title>
+    <sub-title lang="en">Tennis WTA Hobart 2020 - International - Final</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20200308230000 +0200" stop="20200309010000 +0200" channel="HD9">
+    <title lang="en">Ashleigh BARTY AUS vs Dayana YASTREMSKA UKR</title>
+    <sub-title lang="en">Tennis WTA Adelaide 2020 - Premier  - Final</sub-title>
+    <category lang="en">رابطة محترفات التنس</category>
+  </programme>
+</tv>
