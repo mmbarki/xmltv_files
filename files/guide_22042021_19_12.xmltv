@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Aljazeera Doc">
+    <display-name lang="en">Aljazeera Doc</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="NatGeo Ar">
+    <display-name lang="en">NatGeo Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 1 Ar">
+    <display-name lang="en">Bein sports 1 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 2 Ar">
+    <display-name lang="en">Bein sports 2 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 3 Ar">
+    <display-name lang="en">Bein sports 3 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 4 Ar">
+    <display-name lang="en">Bein sports 4 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 5 Ar">
+    <display-name lang="en">Bein sports 5 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 6 Ar">
+    <display-name lang="en">Bein sports 6 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Bein sports 7 Ar">
+    <display-name lang="en">Bein sports 7 Ar</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+</tv>
