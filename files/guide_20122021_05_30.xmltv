@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MBC 2">
+    <display-name lang="ar">MBC 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Film">
+    <display-name lang="ar">Panorama Film</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 4">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC Drama">
+    <display-name lang="ar">CBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama +">
+    <display-name lang="ar">MBC Drama +</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Nile Drama">
+    <display-name lang="ar">Nile Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Abu Dhabi Drama">
+    <display-name lang="ar">Abu Dhabi Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Drama">
+    <display-name lang="ar">Panorama Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Drama 2">
+    <display-name lang="ar">Panorama Drama 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC sofra">
+    <display-name lang="ar">CBC sofra</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC">
+    <display-name lang="ar">MBC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Egypt">
+    <display-name lang="ar">MBC Egypt</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Aloula">
+    <display-name lang="ar">Aloula</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Abu Dhabi 1">
+    <display-name lang="ar">Abu Dhabi 1</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC">
+    <display-name lang="ar">CBC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 3">
+    <display-name lang="ar">MBC 3</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 5">
+    <display-name lang="ar">MBC 5</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="2M">
+    <display-name lang="ar">2M</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Bein drama">
+    <display-name lang="ar">Bein drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="ON drama">
+    <display-name lang="ar">ON drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="DMC drama">
+    <display-name lang="ar">DMC drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="DMC">
+    <display-name lang="ar">DMC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="ON E">
+    <display-name lang="ar">ON E</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="mbc masr 2">
+    <display-name lang="ar">mbc masr 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa مسلسلات">
+    <display-name lang="ar">alfa مسلسلات</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa مسلسلات 2">
+    <display-name lang="ar">alfa مسلسلات 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa اليوم">
+    <display-name lang="ar">alfa اليوم</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN ياهلا الأولى">
+    <display-name lang="ar">OSN ياهلا الأولى</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN ياهلا">
+    <display-name lang="ar">OSN ياهلا</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="NAt Geo Abudhabi">
+    <display-name lang="ar">NAt Geo Abudhabi</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="لنهار دراما">
+    <display-name lang="ar">لنهار دراما</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="النهار">
+    <display-name lang="ar">النهار</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="الحياة">
+    <display-name lang="ar">الحياة</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="الحياة دراما">
+    <display-name lang="ar">الحياة دراما</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN Cinema ياهلا">
+    <display-name lang="ar">OSN Cinema ياهلا</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="HD1">
+    <display-name lang="en">Bein sports 1 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2">
+    <display-name lang="en">Bein sports 2 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3">
+    <display-name lang="en">Bein sports 3 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4">
+    <display-name lang="en">Bein sports 4 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5">
+    <display-name lang="en">Bein sports 5 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6">
+    <display-name lang="en">Bein sports 6 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20211216000000 +0100" stop="20211216010000 +0100" channel="HD1">
+    <title lang="en">Evening  Show</title>
+    <sub-title lang="en">FIFA Arab Cup 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216010000 +0100" stop="20211216024500 +0100" channel="HD1">
+    <title lang="en">Al Gharafa vs Al Wakrah</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20211216024500 +0100" stop="20211216043000 +0100" channel="HD1">
+    <title lang="en">Al Rayyan vs Al Gharafa</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20211216043000 +0100" stop="20211216050000 +0100" channel="HD1">
+    <title lang="en">Summary of Finals the relay races in athletics – Tokyo 2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216050000 +0100" stop="20211216060000 +0100" channel="HD1">
+    <title lang="en">DTM Magazine</title>
+    <sub-title lang="en">Season Review 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216060000 +0100" stop="20211216070000 +0100" channel="HD1">
+    <title lang="en">Impossible is not in their dictionary – part 2</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216070000 +0100" stop="20211216073000 +0100" channel="HD1">
+    <title lang="en">FIFA Arab Cup 2021</title>
+    <sub-title lang="en">Highlight 9</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216073000 +0100" stop="20211216093000 +0100" channel="HD1">
+    <title lang="en">Extreme E</title>
+    <sub-title lang="en">Sardinia Race</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20211216093000 +0100" stop="20211216100000 +0100" channel="HD1">
+    <title lang="en">Min Short Distance Athletics – Tokyo 2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216100000 +0100" stop="20211216123000 +0100" channel="HD1">
+    <title lang="en">Jersey</title>
+    <sub-title lang="en">Super League Triathlon SLT Championship Series</sub-title>
+    <category lang="en">ألعاب القوى</category>
+  </programme>
+  <programme start="20211216123000 +0100" stop="20211216141500 +0100" channel="HD1">
+    <title lang="en">Al Gharafa vs Al Wakrah</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20211216141500 +0100" stop="20211216160000 +0100" channel="HD1">
+    <title lang="en">Al Rayyan vs Al Gharafa</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20211216160000 +0100" stop="20211216203000 +0100" channel="HD1">
+    <title lang="en">Spain vs Argentina</title>
+    <sub-title lang="en">Women's Final Qatar Ooredoo World Padel Championships 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216203000 +0100" stop="20211216210000 +0100" channel="HD1">
+    <title lang="en">Summary of Middle distance finals in Athletics – Tokyo 2020</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211216210000 +0100" stop="20211216223000 +0100" channel="HD1">
+    <title lang="en">Nantes vs PSG</title>
+    <sub-title lang="en">Handball French Stars League 2020/21</sub-title>
+    <category lang="en">الدوري الفرنسي لكرة اليد</category>
+  </programme>
+  <programme start="20211216223000 +0100" stop="20211217000000 +0100" channel="HD1">
+    <title lang="en">France vs Denmark</title>
+    <sub-title lang="en">Golden League Handball 2021</sub-title>
+    <category lang="en">كرة اليد</category>
+  </programme>
+  <programme start="20211217233000 +0100" stop="20211218000000 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">15/12/21</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211218234500 +0100" stop="20211219000000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">14/12/21</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211219000000 +0100" stop="20211219001200 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300 2021</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211219001200 +0100" stop="20211219001500 +0100" channel="HD1">
+    <title lang="en">News Stars</title>
+    <sub-title lang="en">16 December 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211219001500 +0100" stop="20211219003000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">15/12/21</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211219003000 +0100" stop="20211219010000 +0100" channel="HD1">
+    <title lang="en">WITHOUT RESTRICTIONS</title>
+    <sub-title lang="en">News</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20211219010000 +0100" stop="20211219020000 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20211220014500 +0100" stop="20211220020000 +0100" channel="HD1">
+    <title lang="en">Do You Know – Special Arabs Cup</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211220020000 +0100" stop="20211220023000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -  2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211220023000 +0100" stop="20211220025700 +0100" channel="HD1">
+    <title lang="en">The World is Our Stadium</title>
+    <sub-title lang="en">Stadium 974</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211220025700 +0100" stop="20211220030000 +0100" channel="HD1">
+    <title lang="en">Album</title>
+    <sub-title lang="en">16/12/21</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20211220030000 +0100" stop="20211220040000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <sub-title lang="en">2021</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20211220040000 +0100" stop="20211220043000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -  2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211220043000 +0100" stop="20211220050000 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">15/12/21</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211221044500 +0100" stop="20211221050000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">15/12/21</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211221050000 +0100" stop="20211221051200 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300 2021</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211221051200 +0100" stop="20211221051500 +0100" channel="HD1">
+    <title lang="en">News Stars</title>
+    <sub-title lang="en">16 December 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211221051500 +0100" stop="20211221053000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">15/12/21</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20211221053000 +0100" stop="20211221060000 +0100" channel="HD1">
+    <title lang="en">WITHOUT RESTRICTIONS</title>
+    <sub-title lang="en">News</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20211221060000 +0100" stop="20211221065700 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20211222064500 +0100" stop="20211222065800 +0100" channel="HD1">
+    <title lang="en">Do You Know – Special Arabs Cup</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+</tv>
