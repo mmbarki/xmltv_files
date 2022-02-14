@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MBC 2">
+    <display-name lang="ar">MBC 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Film">
+    <display-name lang="ar">Panorama Film</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 4">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC Drama">
+    <display-name lang="ar">CBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama +">
+    <display-name lang="ar">MBC Drama +</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Nile Drama">
+    <display-name lang="ar">Nile Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Abu Dhabi Drama">
+    <display-name lang="ar">Abu Dhabi Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Drama">
+    <display-name lang="ar">Panorama Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Drama 2">
+    <display-name lang="ar">Panorama Drama 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC sofra">
+    <display-name lang="ar">CBC sofra</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC">
+    <display-name lang="ar">MBC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Egypt">
+    <display-name lang="ar">MBC Egypt</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Aloula">
+    <display-name lang="ar">Aloula</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Abu Dhabi 1">
+    <display-name lang="ar">Abu Dhabi 1</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC">
+    <display-name lang="ar">CBC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 3">
+    <display-name lang="ar">MBC 3</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 5">
+    <display-name lang="ar">MBC 5</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="2M">
+    <display-name lang="ar">2M</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Bein drama">
+    <display-name lang="ar">Bein drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="ON drama">
+    <display-name lang="ar">ON drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="DMC drama">
+    <display-name lang="ar">DMC drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="DMC">
+    <display-name lang="ar">DMC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="ON E">
+    <display-name lang="ar">ON E</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="mbc masr 2">
+    <display-name lang="ar">mbc masr 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa مسلسلات">
+    <display-name lang="ar">alfa مسلسلات</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa مسلسلات 2">
+    <display-name lang="ar">alfa مسلسلات 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa اليوم">
+    <display-name lang="ar">alfa اليوم</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN ياهلا الأولى">
+    <display-name lang="ar">OSN ياهلا الأولى</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN ياهلا">
+    <display-name lang="ar">OSN ياهلا</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="NAt Geo Abudhabi">
+    <display-name lang="ar">NAt Geo Abudhabi</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="لنهار دراما">
+    <display-name lang="ar">لنهار دراما</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="النهار">
+    <display-name lang="ar">النهار</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="الحياة">
+    <display-name lang="ar">الحياة</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="الحياة دراما">
+    <display-name lang="ar">الحياة دراما</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN Cinema ياهلا">
+    <display-name lang="ar">OSN Cinema ياهلا</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="HD1">
+    <display-name lang="en">Bein sports 1 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2">
+    <display-name lang="en">Bein sports 2 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3">
+    <display-name lang="en">Bein sports 3 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4">
+    <display-name lang="en">Bein sports 4 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5">
+    <display-name lang="en">Bein sports 5 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6">
+    <display-name lang="en">Bein sports 6 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20220210000000 +0100" stop="20220210013000 +0100" channel="HD1">
+    <title lang="en">Women's Freestyle Skiing</title>
+    <sub-title lang="en">Freeski Big Air Final - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210013000 +0100" stop="20220210020000 +0100" channel="HD1">
+    <title lang="en">Sports Clinic</title>
+    <sub-title lang="en">The Screening</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210020000 +0100" stop="20220210023000 +0100" channel="HD1">
+    <title lang="en">History of Winter Olympics</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210023000 +0100" stop="20220210050000 +0100" channel="HD1">
+    <title lang="en">Men's Alpine Skiing ALP05</title>
+    <sub-title lang="en">XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210050000 +0100" stop="20220210070000 +0100" channel="HD1">
+    <title lang="en">Extreme E</title>
+    <sub-title lang="en">Sardinia Race</sub-title>
+    <category lang="en">رياضة السيارات</category>
+  </programme>
+  <programme start="20220210070000 +0100" stop="20220210080000 +0100" channel="HD1">
+    <title lang="en">Winter Olympics Arabic Daily Highlights</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210080000 +0100" stop="20220210094500 +0100" channel="HD1">
+    <title lang="en">Al Sadd vs Um Salal</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220210094500 +0100" stop="20220210113000 +0100" channel="HD1">
+    <title lang="en">AL Duhail vs Al Shamal</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220210113000 +0100" stop="20220210130000 +0100" channel="HD1">
+    <title lang="en">CessonRennes vs Nimes</title>
+    <sub-title lang="en">Handball French Stars League 2020/21</sub-title>
+    <category lang="en">الدوري الفرنسي لكرة اليد</category>
+  </programme>
+  <programme start="20220210130000 +0100" stop="20220210133500 +0100" channel="HD1">
+    <title lang="en">QSL</title>
+    <sub-title lang="en">BEST GOALS 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210133500 +0100" stop="20220210154500 +0100" channel="HD1">
+    <title lang="en">Al Sailiya vs Al Rayyan</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220210154500 +0100" stop="20220210175000 +0100" channel="HD1">
+    <title lang="en">Al Arabi vs Al Ahli</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220210175000 +0100" stop="20220210184500 +0100" channel="HD1">
+    <title lang="en">DTM Magazine</title>
+    <sub-title lang="en">Season Review 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210184500 +0100" stop="20220210210000 +0100" channel="HD1">
+    <title lang="en">Men's Alpine Skiing ALP05</title>
+    <sub-title lang="en">XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220210210000 +0100" stop="20220210230000 +0100" channel="HD1">
+    <title lang="en">Cycling</title>
+    <sub-title lang="en">2022 Saudi Tour - STAGE 5</sub-title>
+    <category lang="en">الدراجات الهوائية</category>
+  </programme>
+  <programme start="20220210230000 +0100" stop="20220211000000 +0100" channel="HD1">
+    <title lang="en">Winter Olympics Arabic Daily Highlights</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220211234500 +0100" stop="20220212000000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">9/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212000000 +0100" stop="20220212001500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212001500 +0100" stop="20220212003000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">9/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212003000 +0100" stop="20220212010000 +0100" channel="HD1">
+    <title lang="en">WOMEN SHOW</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212010000 +0100" stop="20220212014500 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212014500 +0100" stop="20220212020000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1990</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212020000 +0100" stop="20220212023000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212023000 +0100" stop="20220212030000 +0100" channel="HD1">
+    <title lang="en">WINTER OLYMPIC 2022 OPENING CEREMONY</title>
+    <sub-title lang="en">PART 2</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212030000 +0100" stop="20220212040000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212040000 +0100" stop="20220212043000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212043000 +0100" stop="20220212044500 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">9/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212044500 +0100" stop="20220212050000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">9/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212050000 +0100" stop="20220212051500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212051500 +0100" stop="20220212053000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">9/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212053000 +0100" stop="20220212060000 +0100" channel="HD1">
+    <title lang="en">WOMEN SHOW</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212060000 +0100" stop="20220212064300 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212064300 +0100" stop="20220212070000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1990</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212070000 +0100" stop="20220212080000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212080000 +0100" stop="20220212081500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212081500 +0100" stop="20220212083000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">9/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212083000 +0100" stop="20220212090000 +0100" channel="HD1">
+    <title lang="en">WOMEN SHOW</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212090000 +0100" stop="20220212100000 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212100000 +0100" stop="20220212103000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212103000 +0100" stop="20220212104500 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212104500 +0100" stop="20220212110000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212110000 +0100" stop="20220212111500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212111500 +0100" stop="20220212113000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212113000 +0100" stop="20220212120000 +0100" channel="HD1">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.21</episode-num>
+  </programme>
+  <programme start="20220212120000 +0100" stop="20220212130000 +0100" channel="HD1">
+    <title lang="en">NEWS HOUR</title>
+    <sub-title lang="en">Live Studio @15:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212130000 +0100" stop="20220212133000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @16:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212133000 +0100" stop="20220212134500 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212134500 +0100" stop="20220212140000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212140000 +0100" stop="20220212141500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @1700 2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212141500 +0100" stop="20220212143000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212143000 +0100" stop="20220212150000 +0100" channel="HD1">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.21</episode-num>
+  </programme>
+  <programme start="20220212150000 +0100" stop="20220212160000 +0100" channel="HD1">
+    <title lang="en">NEWS HOUR</title>
+    <sub-title lang="en">Live Studio @18:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212160000 +0100" stop="20220212163000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @19:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212163000 +0100" stop="20220212164500 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212164500 +0100" stop="20220212170000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212170000 +0100" stop="20220212171500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @2000 2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212171500 +0100" stop="20220212173000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1990</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212173000 +0100" stop="20220212180000 +0100" channel="HD1">
+    <title lang="en">GAMES</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212180000 +0100" stop="20220212190000 +0100" channel="HD1">
+    <title lang="en">NEWS HOUR</title>
+    <sub-title lang="en">Live Studio @21:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212190000 +0100" stop="20220212193000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @22:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212193000 +0100" stop="20220212200000 +0100" channel="HD1">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.21</episode-num>
+  </programme>
+  <programme start="20220212200000 +0100" stop="20220212201500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @23:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212201500 +0100" stop="20220212203000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212203000 +0100" stop="20220212210000 +0100" channel="HD1">
+    <title lang="en">GAMES</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212210000 +0100" stop="20220212214500 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212214500 +0100" stop="20220212220000 +0100" channel="HD1">
+    <title lang="en">What You Missed 2021/2022</title>
+    <category lang="en">كرة قدم</category>
+  </programme>
+  <programme start="20220212220000 +0100" stop="20220212230000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220212230000 +0100" stop="20220212233000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212233000 +0100" stop="20220212234500 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220212234500 +0100" stop="20220213000000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">10/02/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220213230000 +0100" stop="20220214004500 +0100" channel="HD1">
+    <title lang="en">Al Wakrah vs Qatar</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220214004500 +0100" stop="20220214013000 +0100" channel="HD1">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.27</episode-num>
+  </programme>
+  <programme start="20220214013000 +0100" stop="20220214060000 +0100" channel="HD1">
+    <title lang="en">Figure Skating</title>
+    <sub-title lang="en">Free Skating - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220214060000 +0100" stop="20220214074200 +0100" channel="HD1">
+    <title lang="en">Men/Women's Snowboard</title>
+    <sub-title lang="en">Snowboard Cross Final - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220214074200 +0100" stop="20220214092400 +0100" channel="HD1">
+    <title lang="en">Elche CF vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 23</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220214092400 +0100" stop="20220214111700 +0100" channel="HD1">
+    <title lang="en">RCD Mallorca vs Cádiz CF</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 23</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220214111700 +0100" stop="20220214130000 +0100" channel="HD1">
+    <title lang="en">RC Celta de Vigo vs Rayo Vallecano</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 23</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220214130000 +0100" stop="20220214133000 +0100" channel="HD1">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.27</episode-num>
+  </programme>
+  <programme start="20220214133000 +0100" stop="20220214150000 +0100" channel="HD1">
+    <title lang="en">Men's Women's Luge</title>
+    <sub-title lang="en">Team Relay - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220214150000 +0100" stop="20220214154500 +0100" channel="HD1">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.27</episode-num>
+  </programme>
+  <programme start="20220214154500 +0100" stop="20220214180000 +0100" channel="HD1">
+    <title lang="en">Al Khor vs Al Gharafa</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220214180000 +0100" stop="20220214190000 +0100" channel="HD1">
+    <title lang="en">LaLiga Talking Football  2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.5</episode-num>
+  </programme>
+  <programme start="20220214190000 +0100" stop="20220214200000 +0100" channel="HD1">
+    <title lang="en">La Liga Highlights 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.23</episode-num>
+  </programme>
+  <programme start="20220214200000 +0100" stop="20220214203000 +0100" channel="HD1">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.27</episode-num>
+  </programme>
+  <programme start="20220214203000 +0100" stop="20220214210000 +0100" channel="HD1">
+    <title lang="en">LaLiga Fans 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.5</episode-num>
+  </programme>
+  <programme start="20220214210000 +0100" stop="20220214220000 +0100" channel="HD1">
+    <title lang="en">La Liga Highlights 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.23</episode-num>
+  </programme>
+  <programme start="20220214220000 +0100" stop="20220214230000 +0100" channel="HD1">
+    <title lang="en">La Liga TOP GOALS 2021</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220214230000 +0100" stop="20220215004500 +0100" channel="HD1">
+    <title lang="en">Al Khor vs Al Gharafa</title>
+    <sub-title lang="en">Qatar Stars League 2021/2022</sub-title>
+    <category lang="en">دوري نجوم قطر</category>
+  </programme>
+  <programme start="20220215224500 +0100" stop="20220216003000 +0100" channel="HD1">
+    <title lang="en">Women's Luge Doubles Run 1 &amp; 2 Victory Ceremony</title>
+    <sub-title lang="en">XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216003000 +0100" stop="20220216010000 +0100" channel="HD1">
+    <title lang="en">Nice vs Clermont</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220216010000 +0100" stop="20220216013000 +0100" channel="HD1">
+    <title lang="en">ALL PSG GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216013000 +0100" stop="20220216040000 +0100" channel="HD1">
+    <title lang="en">Men's Skeleton</title>
+    <sub-title lang="en">Heat 1 &amp; 2 - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216040000 +0100" stop="20220216045500 +0100" channel="HD1">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022 - Week 23</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216045500 +0100" stop="20220216064500 +0100" channel="HD1">
+    <title lang="en">Bergerac Périgord FC vs FC Versailles</title>
+    <sub-title lang="en">Coupe de France 2021/22 - Quarter Finals</sub-title>
+    <category lang="en">كأس فرنسا</category>
+  </programme>
+  <programme start="20220216064500 +0100" stop="20220216083000 +0100" channel="HD1">
+    <title lang="en">OGC Nice vs Olympique de Marseille</title>
+    <sub-title lang="en">Coupe de France 2021/22 - Quarter Finals</sub-title>
+    <category lang="en">كأس فرنسا</category>
+  </programme>
+  <programme start="20220216083000 +0100" stop="20220216090000 +0100" channel="HD1">
+    <title lang="en">Lille vs PSG</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220216090000 +0100" stop="20220216113000 +0100" channel="HD1">
+    <title lang="en">Men's Skeleton</title>
+    <sub-title lang="en">Heat 1 &amp; 2 - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216113000 +0100" stop="20220216120000 +0100" channel="HD1">
+    <title lang="en">ALL PSG GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216120000 +0100" stop="20220216140000 +0100" channel="HD1">
+    <title lang="en">Curling Women's Round Robin</title>
+    <sub-title lang="en">Canada vs Korea - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216140000 +0100" stop="20220216143000 +0100" channel="HD1">
+    <title lang="en">This Is Paris 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.24</episode-num>
+  </programme>
+  <programme start="20220216143000 +0100" stop="20220216161500 +0100" channel="HD1">
+    <title lang="en">Bergerac Périgord FC vs FC Versailles</title>
+    <sub-title lang="en">Coupe de France 2021/22 - Quarter Finals</sub-title>
+    <category lang="en">كأس فرنسا</category>
+  </programme>
+  <programme start="20220216161500 +0100" stop="20220216180000 +0100" channel="HD1">
+    <title lang="en">OGC Nice vs Olympique de Marseille</title>
+    <sub-title lang="en">Coupe de France 2021/22 - Quarter Finals</sub-title>
+    <category lang="en">كأس فرنسا</category>
+  </programme>
+  <programme start="20220216180000 +0100" stop="20220216195500 +0100" channel="HD1">
+    <title lang="en">Curling Women's Round Robin</title>
+    <sub-title lang="en">Canada vs Korea - XXIV Olympic Winter Games Beijing 2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216195500 +0100" stop="20220216220000 +0100" channel="HD1">
+    <title lang="en">FC Nantes vs SC Bastia</title>
+    <sub-title lang="en">Coupe de France 2021/22 - Quarter Finals</sub-title>
+    <category lang="en">كأس فرنسا</category>
+  </programme>
+  <programme start="20220216220000 +0100" stop="20220216221500 +0100" channel="HD1">
+    <title lang="en">ALL MARSEILLE GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216221500 +0100" stop="20220216231500 +0100" channel="HD1">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022 - Week 23</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220216231500 +0100" stop="20220217010000 +0100" channel="HD1">
+    <title lang="en">Nice vs Clermont</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 23</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+</tv>
