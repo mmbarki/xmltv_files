@@ -991,3 +991,33 @@ HEAD is now at f0a3607 build file: guide_24032022_05_30.xmltv
 [34m[EXPORT] [39mGZ : [32mOK[39m (var/export/xmltv.xml.'.gz')
 [34m[EXPORT] [39mCompression du XMLTV en ZIP...
 [34m[EXPORT] [39mZIP : [32mOK[39m (var/export/xmltv.zip)
+[master dd2be5d] build file: guide_FR_28032022_05_09.xmltv
+ 3 files changed, 356569 insertions(+), 93605 deletions(-)
+ create mode 100644 files/guide_FR_28032022_05_09.xmltv
+ rewrite logs/cron_racacax.log (77%)
+Os: "Linux"
+grabber_dir : /develops/grabbers/racacax_fork/XML-TV-Fr
+grabber_run_cmd : php /develops/grabbers/racacax_fork/XML-TV-Fr/example/script_all.php
+xmltv_files_dir : /develops/grabbers/xmltv_files
+runner_dir : /develops/grabbers/grab-runners
+out_dir : /develops/grabbers/racacax_fork/XML-TV-Fr/var/export
+archives_dir : /develops/grabbers/racacax_fork/XML-TV-Fr/var/export/var/export/archives
+XMLTV  (Racacax) .............................................................................. Begin
+.......................................................................... step 1: Resync with github
+resync with Git repository done
+.........................................................................................step 2: init
+saving "channels.json" as "channels.old.json" on Grabber config directory ...
+done.
+copying "channels.json" file to Grabber config directory ...
+done.
+copying "config.json" file to Grabber config directory ...
+done.
+moving last ".xmltv" file to "out/archives" (except guide.xmltv) on Grabber directory ...
+done.
+........................................................................................ step 3: Grabing
+Grabing done ................................................................................... [OK]
+xmltv.xml copied to "guide_FR_28032022_05_09.xmltv
+copying log files done.
+................................................................................. step 4: Push to github
+file "guide_FR_28032022_05_09.xmltv" pushed to Git repository
+XMLTV   ....................................................................................... end
