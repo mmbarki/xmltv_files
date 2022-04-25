@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MBC 2">
+    <display-name lang="ar">MBC 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Film">
+    <display-name lang="ar">Panorama Film</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 4">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC Drama">
+    <display-name lang="ar">CBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Drama +">
+    <display-name lang="ar">MBC Drama +</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Nile Drama">
+    <display-name lang="ar">Nile Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Abu Dhabi Drama">
+    <display-name lang="ar">Abu Dhabi Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Drama">
+    <display-name lang="ar">Panorama Drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Panorama Drama 2">
+    <display-name lang="ar">Panorama Drama 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC sofra">
+    <display-name lang="ar">CBC sofra</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC">
+    <display-name lang="ar">MBC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Egypt">
+    <display-name lang="ar">MBC Egypt</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Aloula">
+    <display-name lang="ar">Aloula</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Abu Dhabi 1">
+    <display-name lang="ar">Abu Dhabi 1</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="CBC">
+    <display-name lang="ar">CBC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 3">
+    <display-name lang="ar">MBC 3</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC 5">
+    <display-name lang="ar">MBC 5</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="2M">
+    <display-name lang="ar">2M</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="Bein drama">
+    <display-name lang="ar">Bein drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="ON drama">
+    <display-name lang="ar">ON drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="DMC drama">
+    <display-name lang="ar">DMC drama</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="DMC">
+    <display-name lang="ar">DMC</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="ON E">
+    <display-name lang="ar">ON E</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="mbc masr 2">
+    <display-name lang="ar">mbc masr 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa مسلسلات">
+    <display-name lang="ar">alfa مسلسلات</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa مسلسلات 2">
+    <display-name lang="ar">alfa مسلسلات 2</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="alfa اليوم">
+    <display-name lang="ar">alfa اليوم</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN ياهلا الأولى">
+    <display-name lang="ar">OSN ياهلا الأولى</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN ياهلا">
+    <display-name lang="ar">OSN ياهلا</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="NAt Geo Abudhabi">
+    <display-name lang="ar">NAt Geo Abudhabi</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="لنهار دراما">
+    <display-name lang="ar">لنهار دراما</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="النهار">
+    <display-name lang="ar">النهار</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="الحياة">
+    <display-name lang="ar">الحياة</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="الحياة دراما">
+    <display-name lang="ar">الحياة دراما</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="OSN Cinema ياهلا">
+    <display-name lang="ar">OSN Cinema ياهلا</display-name>
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="HD1">
+    <display-name lang="en">Bein sports 1 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2">
+    <display-name lang="en">Bein sports 2 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD3">
+    <display-name lang="en">Bein sports 3 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4">
+    <display-name lang="en">Bein sports 4 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD5">
+    <display-name lang="en">Bein sports 5 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD6">
+    <display-name lang="en">Bein sports 6 Ar</display-name>
+    <icon src="http://epg.beinsports.com/https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20220314013000 +0100" stop="20220314030000 +0100" channel="HD1">
+    <title lang="en">PSG vs Nantes</title>
+    <sub-title lang="en">Handball French Stars League 2020/21 + 2021/22</sub-title>
+    <category lang="en">الدوري الفرنسي لكرة اليد</category>
+  </programme>
+  <programme start="20220314030000 +0100" stop="20220314044500 +0100" channel="HD1">
+    <title lang="en">Al Sailiya vs Al Duhail</title>
+    <sub-title lang="en">Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220314044500 +0100" stop="20220314063200 +0100" channel="HD1">
+    <title lang="en">Qatar vs Al Gharafa</title>
+    <sub-title lang="en">Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220314063200 +0100" stop="20220314070000 +0100" channel="HD1">
+    <title lang="en">Qatar Handball team .. The story of the fifth stars</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220314070000 +0100" stop="20220314083000 +0100" channel="HD1">
+    <title lang="en">PSG vs Nantes</title>
+    <sub-title lang="en">Handball French Stars League 2020/21 + 2021/22</sub-title>
+    <category lang="en">الدوري الفرنسي لكرة اليد</category>
+  </programme>
+  <programme start="20220314083000 +0100" stop="20220314090000 +0100" channel="HD1">
+    <title lang="en">beIN Action | E147</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220314090000 +0100" stop="20220314104500 +0100" channel="HD1">
+    <title lang="en">Al Sadd vs Al Ahli</title>
+    <sub-title lang="en">Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220314104500 +0100" stop="20220314130000 +0100" channel="HD1">
+    <title lang="en">Al Rayyan vs Al Wakrah</title>
+    <sub-title lang="en">Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220314130000 +0100" stop="20220314133000 +0100" channel="HD1">
+    <title lang="en">QSL</title>
+    <sub-title lang="en">BEST GOALS 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220314133000 +0100" stop="20220314163000 +0100" channel="HD1">
+    <title lang="en">Al Gharafa vs Al Wakrah</title>
+    <sub-title lang="en">SF1 - Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220314163000 +0100" stop="20220314190000 +0100" channel="HD1">
+    <title lang="en">Al Sadd vs Al Duhail</title>
+    <sub-title lang="en">SF2 - Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220314190000 +0100" stop="20220314210000 +0100" channel="HD1">
+    <title lang="en">Cycling</title>
+    <sub-title lang="en">2022 Saudi Tour - STAGE 1</sub-title>
+    <category lang="en">الدراجات الهوائية</category>
+  </programme>
+  <programme start="20220314210000 +0100" stop="20220314213000 +0100" channel="HD1">
+    <title lang="en">beIN Action | E147</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220314213000 +0100" stop="20220314220000 +0100" channel="HD1">
+    <title lang="en">QSL</title>
+    <sub-title lang="en">BEST GOALS 2021</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220314220000 +0100" stop="20220315011000 +0100" channel="HD1">
+    <title lang="en">Al Gharafa vs Al Wakrah</title>
+    <sub-title lang="en">SF1 - Amir Cup 2022</sub-title>
+    <category lang="en">كأس أمير قطر 2014</category>
+  </programme>
+  <programme start="20220315234500 +0100" stop="20220316000000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">13/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316000000 +0100" stop="20220316001500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316001500 +0100" stop="20220316003000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">13/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316003000 +0100" stop="20220316010000 +0100" channel="HD1">
+    <title lang="en">ARAB NEWS</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316010000 +0100" stop="20220316014500 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316014500 +0100" stop="20220316020000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1994</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316020000 +0100" stop="20220316023000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316023000 +0100" stop="20220316030000 +0100" channel="HD1">
+    <title lang="en">FIFA World Cup Qatar 2022™ Monthly Magazine Show</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316030000 +0100" stop="20220316040000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316040000 +0100" stop="20220316043000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316043000 +0100" stop="20220316044500 +0100" channel="HD1">
+    <title lang="en">Interview Report</title>
+    <sub-title lang="en">13/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316044500 +0100" stop="20220316050000 +0100" channel="HD1">
+    <title lang="en">Special Report</title>
+    <sub-title lang="en">13/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316050000 +0100" stop="20220316051500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316051500 +0100" stop="20220316053000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">13/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316053000 +0100" stop="20220316060000 +0100" channel="HD1">
+    <title lang="en">ARAB NEWS</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316060000 +0100" stop="20220316064300 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316064300 +0100" stop="20220316070000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1994</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316070000 +0100" stop="20220316080000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316080000 +0100" stop="20220316081500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316081500 +0100" stop="20220316083000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">13/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316083000 +0100" stop="20220316090000 +0100" channel="HD1">
+    <title lang="en">ARAB NEWS</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316090000 +0100" stop="20220316094500 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316094500 +0100" stop="20220316100000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1994</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316100000 +0100" stop="20220316103000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316103000 +0100" stop="20220316110000 +0100" channel="HD1">
+    <title lang="en">beIN Action | E147</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316110000 +0100" stop="20220316111500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @0300</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316111500 +0100" stop="20220316113000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">14/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316113000 +0100" stop="20220316120000 +0100" channel="HD1">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.11</episode-num>
+  </programme>
+  <programme start="20220316120000 +0100" stop="20220316130000 +0100" channel="HD1">
+    <title lang="en">NEWS HOUR</title>
+    <sub-title lang="en">Live Studio @15:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316130000 +0100" stop="20220316133000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @16:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316133000 +0100" stop="20220316140000 +0100" channel="HD1">
+    <title lang="en">beIN Action | E147</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316140000 +0100" stop="20220316141500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @1700 2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316141500 +0100" stop="20220316143000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">14/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316143000 +0100" stop="20220316150000 +0100" channel="HD1">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.11</episode-num>
+  </programme>
+  <programme start="20220316150000 +0100" stop="20220316160000 +0100" channel="HD1">
+    <title lang="en">NEWS HOUR</title>
+    <sub-title lang="en">Live Studio @18:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316160000 +0100" stop="20220316163000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @19:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316163000 +0100" stop="20220316170000 +0100" channel="HD1">
+    <title lang="en">beIN Action | E147</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316170000 +0100" stop="20220316171500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN  @2000 2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316171500 +0100" stop="20220316173000 +0100" channel="HD1">
+    <title lang="en">Tactical Series</title>
+    <sub-title lang="en">World Cup 1994</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316173000 +0100" stop="20220316180000 +0100" channel="HD1">
+    <title lang="en">ARAB STARS</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316180000 +0100" stop="20220316190000 +0100" channel="HD1">
+    <title lang="en">NEWS HOUR</title>
+    <sub-title lang="en">Live Studio @21:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316190000 +0100" stop="20220316193000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @22:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316193000 +0100" stop="20220316200000 +0100" channel="HD1">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.11</episode-num>
+  </programme>
+  <programme start="20220316200000 +0100" stop="20220316201500 +0100" channel="HD1">
+    <title lang="en">AL JAWLA NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @23:00  -  2022</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316201500 +0100" stop="20220316203000 +0100" channel="HD1">
+    <title lang="en">STATS</title>
+    <sub-title lang="en">14/03/22</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316203000 +0100" stop="20220316210000 +0100" channel="HD1">
+    <title lang="en">ARAB STARS</title>
+    <sub-title lang="en">Live Studio NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316210000 +0100" stop="20220316214500 +0100" channel="HD1">
+    <title lang="en">THE ISSUE OF THE WEEK</title>
+    <sub-title lang="en">NEWS</sub-title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316214500 +0100" stop="20220316220000 +0100" channel="HD1">
+    <title lang="en">Do You Know – World Cup 1998</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316220000 +0100" stop="20220316230000 +0100" channel="HD1">
+    <title lang="en">Sports News Hasad</title>
+    <category lang="en">الأخبار الرياضية</category>
+  </programme>
+  <programme start="20220316230000 +0100" stop="20220316233000 +0100" channel="HD1">
+    <title lang="en">NEWS BULLETIN</title>
+    <sub-title lang="en">Live Studio @02:00  -</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220316233000 +0100" stop="20220317000000 +0100" channel="HD1">
+    <title lang="en">beIN Action | E147</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220317223000 +0100" stop="20220318001500 +0100" channel="HD1">
+    <title lang="en">Rayo Vallecano vs Sevilla FC</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318001500 +0100" stop="20220318020000 +0100" channel="HD1">
+    <title lang="en">Real Betis vs Athletic Bilbao</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318020000 +0100" stop="20220318023000 +0100" channel="HD1">
+    <title lang="en">LaLiga Fans 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.6</episode-num>
+  </programme>
+  <programme start="20220318023000 +0100" stop="20220318041500 +0100" channel="HD1">
+    <title lang="en">Real Sociedad vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318041500 +0100" stop="20220318060000 +0100" channel="HD1">
+    <title lang="en">FC Barcelona vs CA Osasuna</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318060000 +0100" stop="20220318063000 +0100" channel="HD1">
+    <title lang="en">LaLiga Nation  2021/2022</title>
+    <sub-title lang="en">United States</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318063000 +0100" stop="20220318081500 +0100" channel="HD1">
+    <title lang="en">Rayo Vallecano vs Sevilla FC</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318081500 +0100" stop="20220318100000 +0100" channel="HD1">
+    <title lang="en">Real Betis vs Athletic Bilbao</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318100000 +0100" stop="20220318110000 +0100" channel="HD1">
+    <title lang="en">LaLiga Talking Football  2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.6</episode-num>
+  </programme>
+  <programme start="20220318110000 +0100" stop="20220318124500 +0100" channel="HD1">
+    <title lang="en">Real Sociedad vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318124500 +0100" stop="20220318143000 +0100" channel="HD1">
+    <title lang="en">FC Barcelona vs CA Osasuna</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318143000 +0100" stop="20220318153000 +0100" channel="HD1">
+    <title lang="en">La liga</title>
+    <sub-title lang="en">Elclasico 2ND - 2021-2022  -The Movie</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220318153000 +0100" stop="20220318160000 +0100" channel="HD1">
+    <title lang="en">Rayo Vallecano vs Sevilla</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220318160000 +0100" stop="20220318162800 +0100" channel="HD1">
+    <title lang="en">Betis vs Athletic Bilbao</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220318162800 +0100" stop="20220318165500 +0100" channel="HD1">
+    <title lang="en">Barcelona vs Osasuna</title>
+    <sub-title lang="en">Mini Match - Spanish La Liga 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220318165500 +0100" stop="20220318190000 +0100" channel="HD1">
+    <title lang="en">Galatasaray vs Besiktas</title>
+    <sub-title lang="en">Turkish Super League 2021/22</sub-title>
+    <category lang="en">كرة قدم</category>
+  </programme>
+  <programme start="20220318190000 +0100" stop="20220318193000 +0100" channel="HD1">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.31</episode-num>
+  </programme>
+  <programme start="20220318193000 +0100" stop="20220318195500 +0100" channel="HD1">
+    <title lang="en">ALL REAL MADRID GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220318195500 +0100" stop="20220318220000 +0100" channel="HD1">
+    <title lang="en">RCD Mallorca vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220318220000 +0100" stop="20220318223000 +0100" channel="HD1">
+    <title lang="en">La Liga World 2021/2022</title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+    <episode-num system="onscreen">E.31</episode-num>
+  </programme>
+  <programme start="20220318223000 +0100" stop="20220319001500 +0100" channel="HD1">
+    <title lang="en">Villarreal CF vs RC Celta de Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2021/2022 Week 28</sub-title>
+    <category lang="en">الدوري الإسباني لكرة القدم</category>
+  </programme>
+  <programme start="20220319234500 +0100" stop="20220320001500 +0100" channel="HD1">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.11</episode-num>
+  </programme>
+  <programme start="20220320001500 +0100" stop="20220320020000 +0100" channel="HD1">
+    <title lang="en">Strasbourg vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320020000 +0100" stop="20220320023000 +0100" channel="HD1">
+    <title lang="en">UEFA UWCL</title>
+    <sub-title lang="en">The Players - Woman CL</sub-title>
+    <category lang="en">كرة قدم</category>
+  </programme>
+  <programme start="20220320023000 +0100" stop="20220320041500 +0100" channel="HD1">
+    <title lang="en">Lyon vs Rennais</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320041500 +0100" stop="20220320060000 +0100" channel="HD1">
+    <title lang="en">Brest vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320060000 +0100" stop="20220320063000 +0100" channel="HD1">
+    <title lang="en">Welcome to Qatar</title>
+    <category lang="en">الرياضة العام</category>
+    <episode-num system="onscreen">E.11</episode-num>
+  </programme>
+  <programme start="20220320063000 +0100" stop="20220320081500 +0100" channel="HD1">
+    <title lang="en">Paris SaintGermain vs Bordeaux</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320081500 +0100" stop="20220320100000 +0100" channel="HD1">
+    <title lang="en">Strasbourg vs Monaco</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320100000 +0100" stop="20220320103000 +0100" channel="HD1">
+    <title lang="en">Lyon vs Rennes</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220320103000 +0100" stop="20220320121500 +0100" channel="HD1">
+    <title lang="en">Angers vs Reims</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320121500 +0100" stop="20220320140000 +0100" channel="HD1">
+    <title lang="en">Clermont vs Lorient</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320140000 +0100" stop="20220320143000 +0100" channel="HD1">
+    <title lang="en">ALL LYON GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220320143000 +0100" stop="20220320161500 +0100" channel="HD1">
+    <title lang="en">Lyon vs Rennais</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320161500 +0100" stop="20220320180000 +0100" channel="HD1">
+    <title lang="en">Brest vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320180000 +0100" stop="20220320183000 +0100" channel="HD1">
+    <title lang="en">ALL PSG GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220320183000 +0100" stop="20220320190000 +0100" channel="HD1">
+    <title lang="en">PSG vs Bordeaux</title>
+    <sub-title lang="en">Mini Match - French Ligue 1 2021/22</sub-title>
+    <category lang="en">مباريات قصيرة</category>
+  </programme>
+  <programme start="20220320190000 +0100" stop="20220320200000 +0100" channel="HD1">
+    <title lang="en">Ligue 1 Weekly Review</title>
+    <sub-title lang="en">2021/2022 - Week 28</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220320200000 +0100" stop="20220320210000 +0100" channel="HD1">
+    <title lang="en">UEFA Nations League 2020/21 Review</title>
+    <sub-title lang="en">Finals</sub-title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220320210000 +0100" stop="20220320213000 +0100" channel="HD1">
+    <title lang="en">ALL LYON GOALS WINTER 2021/2022</title>
+    <category lang="en">الرياضة العام</category>
+  </programme>
+  <programme start="20220320213000 +0100" stop="20220320231500 +0100" channel="HD1">
+    <title lang="en">Lyon vs Rennais</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+  <programme start="20220320231500 +0100" stop="20220321010000 +0100" channel="HD1">
+    <title lang="en">Brest vs Marseille</title>
+    <sub-title lang="en">French Ligue 1 2021/2022 - Week 28</sub-title>
+    <category lang="en">الدوري الفرنسي</category>
+  </programme>
+</tv>
