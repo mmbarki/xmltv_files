@@ -1,1081 +1,1081 @@
 Your branch is up to date with 'origin/master'.
-HEAD is now at 8333eb1 build file: guide_FR_08122022_05_04.xmltv
+HEAD is now at b61bb43 build file: guide_FR_12122022_05_06.xmltv
 [36m[CHARGEMENT] [39mChargement du fichier de config
 [36m[CHARGEMENT] [39mListe des paramètres : [95m(days) [39m=> [33m8[39m, [95m(cache_max_days) [39m=> [33m8[39m, [95m(output_path) [39m=> [33mvar/export/[39m, [95m(time_limit) [39m=> [33m[39m, [95m(memory_limit) [39m=> [33m-1[39m, [95m(delete_raw_xml) [39m=> [33mfalse[39m, [95m(enable_gz) [39m=> [33mtrue[39m, [95m(enable_xz) [39m=> [33mfalse[39m, [95m(enable_zip) [39m=> [33mtrue[39m, [95m(xml_cache_days) [39m=> [33m5[39m, [95m(enable_dummy) [39m=> [33mfalse[39m, [95m(custom_priority_orders) [39m=> [33m[][39m, [95m(guides_to_generate) [39m=> [33m[{"channels":"config\/channels.json","filename":"xmltv.xml"}][39m, [95m(7zip_path) [39m=> [33m[39m, [95m(force_todays_grab) [39m=> [33mfalse[39m, 
 [95m[EPG GRAB] [39mRécupération du guide des programmes (config/channels.json - 119 chaines)
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-13 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39m2MMonde.fr (1/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-19 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mMedi1TV.ar (2/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-19 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mArryadia.ar (3/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-19 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mAlJazeera.ar (4/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39m6ter.fr (5/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mArte.fr (6/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mALARABYTELEVISION (7/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mALRESALAH (8/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mALJAZEERAArabe (9/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-19 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mAlticeStudio.fr (10/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mBARAEM (11/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTS1.fr (12/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTS2.fr (13/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTS3.fr (14/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (15/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (16/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (17/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (18/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (19/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (20/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (21/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-16 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-17 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-18 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-19 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-20 | [32mOK[39m - Proximus
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-21 | [32mOK[39m - Proximus
+[95m[EPG GRAB] [39mElevenSports1FR.be (22/119) : 2022-12-22 | [32mOK[39m - Proximus
 [95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-16 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-17 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-18 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-19 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-20 | [32mOK[39m - Proximus
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-21 | [32mOK[39m - Proximus
+[95m[EPG GRAB] [39mElevenSports2FR.be (23/119) : 2022-12-22 | [32mOK[39m - Proximus
 [95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-16 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-17 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-18 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-19 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-20 | [32mOK[39m - Proximus
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-21 | [32mOK[39m - Proximus
+[95m[EPG GRAB] [39mElevenSports3FR.be (24/119) : 2022-12-22 | [32mOK[39m - Proximus
 [95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mBFMTV.fr (25/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mC8.fr (26/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNT1.fr (27/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCanalPlus.fr (28/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-19 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusCinema.fr (29/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 5.26 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 10.53 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 15.79 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 21.05 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 26.32 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 31.58 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 36.84 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 42.11 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 47.37 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 52.63 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 57.89 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 63.16 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 68.42 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 73.68 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 78.95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 84.21 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 89.47 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 94.74 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 6.67 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 13.33 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 20 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 26.67 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 33.33 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 40 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 46.67 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 53.33 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 60 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 66.67 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 73.33 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 80 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 86.67 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 93.33 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 5.26 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 10.53 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 15.79 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 21.05 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 26.32 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 31.58 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 36.84 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 42.11 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 47.37 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 52.63 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 57.89 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 63.16 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 68.42 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 73.68 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 78.95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 84.21 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 89.47 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 94.74 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 4.76 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 9.52 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 14.29 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 14.29 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 [31mRate limited, waiting 30s (2)[39m[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 14.29 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 19.05 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 23.81 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 28.57 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 33.33 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 38.1 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 42.86 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 47.62 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 52.38 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 57.14 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 61.9 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 66.67 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 71.43 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 76.19 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 80.95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 85.71 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 90.48 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 95.24 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 5.26 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 10.53 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 15.79 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 21.05 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 26.32 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 31.58 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 36.84 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 42.11 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 47.37 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 52.63 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 57.89 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 63.16 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 68.42 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 73.68 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 78.95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 84.21 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 89.47 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-20 94.74 % | [32mOK[39m - Telecablesat
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 5.26 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 10.53 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 15.79 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 21.05 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 26.32 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 31.58 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 36.84 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 42.11 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 47.37 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 52.63 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 57.89 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 63.16 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 68.42 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 73.68 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 78.95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 84.21 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 89.47 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-21 94.74 % | [32mOK[39m - Telecablesat
+[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 0 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 5 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 10 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 15 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 20 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 25 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 30 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 35 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 40 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 45 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 50 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 55 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 60 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 65 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 70 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 75 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 80 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 85 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 90 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 95 %[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 [31mRate limited, waiting 30s (2)[39m[95m[EPG GRAB] [39mCanalPlusDecale.fr (30/119) : 2022-12-22 95 % | [32mOK[39m - Telecablesat
 [95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-19 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusFamily.fr (31/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-19 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusSeries.fr (32/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-16 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-19 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCanalPlusSport.fr (33/119) : 2022-12-22 | [32mOK[39m - Bouygues
 [95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusClassic.fr (34/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusEmotion.fr (35/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusFamiz.fr (36/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusFrisson.fr (37/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCinePlusPremier.fr (38/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusDocs.fr (39/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCNews.fr (40/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mComediePlus.fr (41/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-17 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-18 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-20 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-21 | [32mOK[39m - Bouygues
+[95m[EPG GRAB] [39mCrimeDistrict.fr (42/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mCStar.fr (43/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mDemainTV.fr (44/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mDiscoveryChannel.fr (45/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (46/119) : 2022-12-22 | [32mOK[39m - Tele7Jours
 [95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mDiscoveryScience.fr (47/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mEuronews.fr (48/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-17 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-18 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-20 | [32mOK[39m - Tele7Jours
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-21 | [32mOK[39m - Tele7Jours
+[95m[EPG GRAB] [39mEurosport1.fr (49/119) : 2022-12-22 | [32mOK[39m - Tele7Jours
 [95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-16 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-17 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-18 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-20 | [32mOK[39m - Tele7Jours
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-21 | [32mOK[39m - Tele7Jours
+[95m[EPG GRAB] [39mEurosport2.fr (50/119) : 2022-12-22 | [32mOK[39m - Tele7Jours
 [95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance2.fr (51/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance24.fr (52/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance3.fr (53/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance4.fr (54/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFrance5.fr (55/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mFranceInfo.fr (56/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mGulli.fr (57/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTF1SeriesFilms.fr (58/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mHistoire.fr (59/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mInfosportPlus.fr (60/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mIQRAA (61/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mIQRAAINTERNATIONAL (62/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mLEquipe21.fr (63/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mLaChaineParlementaire.fr (64/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mLaDeux.be (65/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mLaTrois.be (66/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mLaUne.be (67/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mLCI.fr (68/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mM6.fr (69/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mM6Music.fr (70/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mMangas.fr (71/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNatGeoWild.fr (72/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNationalGeographic.fr (73/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNRJ12.fr (74/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mNumero23.fr (75/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSChoc.fr (76/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSCity.fr (77/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSGeants.fr (78/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mOCSMax.fr (79/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mParisPremiere.fr (80/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mPlanetePlus.fr (81/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mPlaneteAction.fr (82/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mPLANETEJustice.fr (83/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-19 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRMC.fr (84/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mRMCDecouverte.fr (85/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRTLTVI.be (86/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 4 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 8 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 12 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 16 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 20 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 24 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 28 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 32 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 36 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 40 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 44 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 48 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 52 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 56 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 60 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 64 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 68 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 72 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 76 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 80 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 84 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 88 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 92 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 96 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 4 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 8 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 12 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 16 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 20 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 24 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 28 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 32 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 36 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 40 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 44 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 48 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 52 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 56 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 60 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 64 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 68 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 72 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 76 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 80 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 84 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 88 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 92 %[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 96 % | [32mOK[39m - MyCanalCH
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRTSDeux.ch (87/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 3.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 7.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 10.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 14.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 17.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 21.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 25 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 28.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 32.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 35.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 39.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 42.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 46.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 50 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 53.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 57.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 60.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 64.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 67.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 71.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 75 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 78.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 82.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 85.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 89.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 92.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 96.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 3.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 7.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 10.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 14.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 17.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 21.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 25 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 28.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 32.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 35.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 39.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 42.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 46.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 50 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 53.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 57.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 60.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 64.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 67.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 71.43 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 75 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 78.57 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 82.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 85.71 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 89.29 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 92.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 96.43 % | [32mOK[39m - MyCanalCH
-[95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRTSUn.ch (88/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mSAMIRATV (89/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mScienceEtVieTV.fr (90/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mSeasons.fr (91/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSportAccess1.fr (92/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 5.56 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 11.11 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 16.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 22.22 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 27.78 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 33.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 38.89 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 44.44 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 50 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 55.56 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 61.11 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 66.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 72.22 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 77.78 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 83.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 88.89 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 94.44 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 5.26 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 10.53 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 15.79 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 21.05 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 26.32 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 31.58 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 36.84 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 42.11 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 47.37 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 52.63 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 57.89 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 63.16 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 68.42 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 73.68 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 78.95 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 84.21 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 89.47 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 94.74 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 5 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 10 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 10 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 15 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 20 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 25 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 30 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 35 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 40 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 45 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 50 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 55 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 60 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 65 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 70 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 75 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 80 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 85 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 90 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 95 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 95 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 5 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 10 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 15 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 20 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 25 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 30 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 35 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 40 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 45 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 50 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 55 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 60 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 65 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 70 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 75 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 80 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 85 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 90 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 95 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 6.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 13.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 20 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 26.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 33.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 40 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 46.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 53.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 60 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 66.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 73.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 80 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 86.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-20 93.33 % | [32mOK[39m - Telecablesat
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 6.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 13.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 20 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 26.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 33.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 40 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 46.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 53.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 60 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 66.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 73.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 80 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 86.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-21 93.33 % | [32mOK[39m - Telecablesat
+[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 0 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 6.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 13.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 20 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 26.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 33.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 40 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 46.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 53.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 60 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 66.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 73.33 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 80 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 86.67 %[95m[EPG GRAB] [39mRMCSportAccess2.fr (93/119) : 2022-12-22 93.33 % | [32mOK[39m - Telecablesat
 [95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mRMCSportUHD.fr (94/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSport1.fr (95/119) : 2022-12-22 | [32mOK[39m - Tele7Jours
 [95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSport2.fr (96/119) : 2022-12-22 | [32mOK[39m - Tele7Jours
 [95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mRMCSportLive3.fr (97/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mRMCSportlive4.fr (98/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mRMCSportLive5.fr (99/119) : 2022-12-22 | [32mOK[39m - Tele7Jours
 [95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-16 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-17 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-18 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-19 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-20 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-21 | [32mOK[39m - SFR
+[95m[EPG GRAB] [39mSyfy.fr (100/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTF1.fr (101/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTIJI.fr (102/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTMC.fr (103/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTouteHistoire.fr (104/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mTV5Monde.fr (105/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mTV5MondeAfrique.fr (106/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-16 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-17 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-18 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 2.33 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 4.65 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 6.98 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 9.3 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 11.63 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 13.95 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 16.28 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 18.6 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 20.93 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 23.26 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 25.58 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 27.91 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 30.23 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 32.56 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 34.88 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 37.21 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 39.53 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 41.86 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 44.19 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 44.19 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 46.51 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 48.84 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 51.16 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 53.49 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 55.81 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 58.14 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 60.47 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 62.79 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 65.12 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 67.44 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 69.77 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 72.09 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 74.42 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 76.74 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 79.07 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 81.4 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 83.72 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 83.72 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 86.05 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 88.37 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 90.7 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 93.02 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 95.35 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 97.67 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-20 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-21 | [32mOK[39m - Telerama
+[95m[EPG GRAB] [39mTV5MondeEurope.fr (107/119) : 2022-12-22 | [32mOK[39m - Telerama
 [95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mUshuaiaTV.fr (108/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 4.76 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 9.52 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 14.29 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 19.05 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 23.81 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 28.57 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 33.33 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 38.1 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 42.86 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 47.62 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 52.38 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 57.14 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 61.9 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 66.67 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 71.43 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 76.19 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 80.95 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 85.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 90.48 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 95.24 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 5 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 10 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 15 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 20 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 25 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 30 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 35 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 40 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 45 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 50 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 55 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 60 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 60 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 65 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 70 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 75 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 80 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 85 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 90 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 95 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 5.26 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 10.53 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 15.79 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 21.05 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 26.32 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 31.58 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 36.84 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 42.11 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 42.11 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 47.37 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 52.63 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 57.89 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 63.16 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 68.42 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 73.68 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 78.95 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 84.21 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 89.47 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 94.74 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 5.26 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 10.53 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 15.79 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 21.05 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 26.32 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 31.58 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 36.84 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 42.11 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 47.37 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 52.63 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 57.89 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 63.16 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 68.42 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 73.68 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 78.95 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 84.21 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 89.47 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 94.74 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 3.57 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 7.14 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 10.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 14.29 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 17.86 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 21.43 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 25 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 28.57 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 32.14 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 35.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 35.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 [31mRate limited, waiting 30s (2)[39m[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 35.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 39.29 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 42.86 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 46.43 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 50 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 53.57 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 57.14 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 60.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 64.29 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 67.86 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 71.43 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 75 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 78.57 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 82.14 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 85.71 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 89.29 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 92.86 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-20 96.43 % | [32mOK[39m - Telecablesat
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 3.7 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 7.41 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 11.11 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 14.81 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 18.52 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 22.22 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 25.93 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 29.63 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 33.33 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 37.04 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 40.74 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 44.44 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 48.15 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 51.85 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 55.56 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 59.26 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 62.96 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 66.67 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 70.37 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 74.07 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 77.78 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 81.48 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 85.19 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 88.89 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 92.59 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-21 96.3 % | [32mOK[39m - Telecablesat
+[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 0 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 3.85 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 7.69 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 11.54 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 15.38 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 19.23 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 23.08 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 26.92 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 30.77 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 34.62 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 38.46 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 42.31 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 46.15 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 46.15 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 [31mRate limited, waiting 30s (2)[39m[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 46.15 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 50 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 53.85 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 57.69 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 61.54 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 65.38 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 69.23 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 73.08 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 76.92 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 80.77 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 84.62 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 88.46 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 92.31 %[95m[EPG GRAB] [39mViceland.fr (109/119) : 2022-12-22 96.15 % | [32mOK[39m - Telecablesat
 [95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mVoyage.fr (110/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mW9.fr (111/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-16 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-17 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-18 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-19 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-20 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-21 | [32mOK[39m - Orange
+[95m[EPG GRAB] [39mGameOneplus1.fr (112/119) : 2022-12-22 | [32mOK[39m - Orange
 [95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-11 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-12 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-13 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (113/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-14 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-15 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-16 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-17 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-18 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-19 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-20 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-21 | [31mHS[39m
+[95m[EPG GRAB] [39mCanalPlusFormula1.fr (114/119) : 2022-12-22 | [31mHS[39m
 [95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-16 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-17 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-18 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-19 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-20 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-21 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport1.af (115/119) : 2022-12-22 | [32mOK[39m - Afrique
 [95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-16 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-17 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-18 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-19 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-20 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-21 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport2.af (116/119) : 2022-12-22 | [32mOK[39m - Afrique
 [95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-16 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-17 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-18 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-19 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-20 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-21 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport3.af (117/119) : 2022-12-22 | [32mOK[39m - Afrique
 [95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-16 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-17 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-18 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-19 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-11 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-12 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-13 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-20 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-21 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport4.af (118/119) : 2022-12-22 | [32mOK[39m - Afrique
 [95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-14 | [33mOK [39m- From Cache 
 [95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-15 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-16 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-17 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-18 | [32mOK[39m - Afrique
-[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-19 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-16 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-17 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-18 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-19 | [33mOK [39m- From Cache 
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-20 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-21 | [32mOK[39m - Afrique
+[95m[EPG GRAB] [39mCanalPlusSport5.af (119/119) : 2022-12-22 | [32mOK[39m - Afrique
 [95m[EPG GRAB] [39mRécupération du guide des programmes terminée...
-[36m[LOGS] [39m Export des logs vers var/logs/logs20221212050629.json
+[36m[LOGS] [39m Export des logs vers var/logs/logs20221215050537.json
 [34m[EXPORT] [32mXML Valide[39m
 [34m[EXPORT] [39mCompression du XMLTV en GZ...
 [34m[EXPORT] [39mGZ : [32mOK[39m (var/export/xmltv.xml.'.gz')
