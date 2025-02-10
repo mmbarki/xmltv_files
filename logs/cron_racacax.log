@@ -1,1033 +1,38 @@
 Your branch is up to date with 'origin/master'.
-HEAD is now at 8bc7ff2 build file: guide_AR_30012025_03_20.xmltv
+HEAD is now at fa6711f build file: guide_AR_10022025_03_20.xmltv
 Your branch is up to date with 'origin/master'.
 HEAD is now at 567acd3 Update channels.json- menage
 Your branch is up to date with 'origin/master'.
-Current branch master is up to date.
-[36m[CHARGEMENT] [39mChargement du fichier de config
-[36m[CHARGEMENT] [39mListe des paramètres : [95m(days) [39m=> [33m8[39m, [95m(cache_max_days) [39m=> [33m8[39m, [95m(output_path) [39m=> [33mvar/export/[39m, [95m(time_limit) [39m=> [33m[39m, [95m(memory_limit) [39m=> [33m-1[39m, [95m(delete_raw_xml) [39m=> [33mfalse[39m, [95m(enable_gz) [39m=> [33mtrue[39m, [95m(enable_xz) [39m=> [33mfalse[39m, [95m(enable_zip) [39m=> [33mtrue[39m, [95m(xml_cache_days) [39m=> [33m5[39m, [95m(enable_dummy) [39m=> [33mfalse[39m, [95m(custom_priority_orders) [39m=> [33m[][39m, [95m(guides_to_generate) [39m=> [33m[{"channels":"config\/channels.json","filename":"xmltv.xml"}][39m, [95m(7zip_path) [39m=> [33m[39m, [95m(force_todays_grab) [39m=> [33mfalse[39m, 
-[95m[EPG GRAB] [39mRécupération du guide des programmes (config/channels.json - 113 chaines)
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-02-04 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-02-05 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mArryadia.ar (1/113) : 2025-02-06 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-02-04 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-02-05 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mAlJazeera.ar (2/113) : 2025-02-06 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m6ter.fr (3/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mArte.fr (4/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1.fr (5/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M1.fr (6/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M2.fr (7/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M3.fr (8/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M4.fr (9/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M5.fr (10/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M6.fr (11/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M7.fr (12/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-02-04 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-02-05 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mDAZNLigue1M8.fr (13/113) : 2025-02-06 | [32mOK[39m - DAZN
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS1.fr (14/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS2.fr (15/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTS3.fr (16/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX10.fr (17/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX4.fr (18/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX5.fr (19/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX6.fr (20/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX7.fr (21/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX8.fr (22/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mbeINSPORTSMAX9.fr (23/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-02-04 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-02-05 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports1FR.be (24/113) : 2025-02-06 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-02-04 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-02-05 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports2FR.be (25/113) : 2025-02-06 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-02-04 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-02-05 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mElevenSports3FR.be (26/113) : 2025-02-06 | [32mOK[39m - Proximus
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mVOOSportWorld1.be (27/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mVOOSportWorld2.be (28/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-01-29 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-01-30 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-01-31 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-02-01 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-02-02 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-02-03 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mVOOSportWorld3.be (29/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mBFMTV.fr (30/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mC8.fr (31/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39m01TV.fr (32/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mMyZenTV.fr (33/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlus.fr (34/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusBoxOffice.fr (35/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-02-04 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-02-05 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusCinema.fr (36/113) : 2025-02-06 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-02-04 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-02-05 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusFamily.fr (37/113) : 2025-02-06 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-02-04 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-02-05 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSeries.fr (38/113) : 2025-02-06 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-02-04 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-02-05 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCanalPlusSport.fr (39/113) : 2025-02-06 | [32mOK[39m - Bouygues
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusClassic.fr (40/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusEmotion.fr (41/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFamiz.fr (42/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusFrisson.fr (43/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCinePlusPremier.fr (44/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 10 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 15 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 20 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 25 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 30 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 35 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 40 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 45 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 55 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 60 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 65 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 70 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 75 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 80 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 85 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 90 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 95 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 10 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 15 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 20 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 25 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 30 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 35 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 40 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 45 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 55 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 60 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 65 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 70 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 75 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 80 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 85 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 90 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-04 95 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 5.26 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 10.53 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 15.79 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 21.05 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 26.32 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 31.58 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 36.84 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 42.11 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 47.37 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 52.63 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 57.89 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 63.16 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 68.42 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 73.68 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 78.95 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 84.21 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 89.47 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 94.74 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 5.26 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 10.53 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 15.79 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 21.05 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 26.32 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 31.58 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 36.84 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 42.11 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 47.37 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 52.63 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 57.89 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 63.16 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 68.42 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 73.68 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 78.95 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 84.21 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 89.47 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-05 94.74 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 0 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 4.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 8.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 12.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 16.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 20.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 29.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 37.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 41.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 45.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 54.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 58.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 62.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 70.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 79.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 83.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 87.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 91.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 95.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 0 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 4.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 8.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 12.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 16.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 20.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 29.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 37.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 41.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 45.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 54.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 58.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 62.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 70.83 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 79.17 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 83.33 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 87.5 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 91.67 %[95m[EPG GRAB] [39mCanalPlusDocs.fr (45/113) : 2025-02-06 95.83 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCNews.fr (46/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mComediePlus.fr (47/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCStar.fr (48/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryChannel.fr (49/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryInvestigation.fr (50/113) : 2025-02-06 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mDiscoveryScience.fr (51/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEuronews.fr (52/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEurosport1.fr (53/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mEurosport2.fr (54/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance2.fr (55/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance24.fr (56/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance3.fr (57/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance4.fr (58/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFrance5.fr (59/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mFranceInfo.fr (60/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTF1SeriesFilms.fr (61/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mHistoire.fr (62/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-02-02 | [31mHS[39m
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-02-03 | [31mHS[39m
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mInfosportPlus.fr (63/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLEquipe21.fr (64/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaChaineParlementaire.fr (65/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaDeux.be (66/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaTrois.be (67/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLaUne.be (68/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBe1.be (69/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mBeCine.be (70/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mLCI.fr (71/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mM6.fr (72/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-02-04 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-02-05 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mNatGeoWild.fr (73/113) : 2025-02-06 | [32mOK[39m - Telerama
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNationalGeographic.fr (74/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNRJ12.fr (75/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNT1.fr (76/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mNumero23.fr (77/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 5.56 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 11.11 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 16.67 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 22.22 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 27.78 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 33.33 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 38.89 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 44.44 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 55.56 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 61.11 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 66.67 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 72.22 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 77.78 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 83.33 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 88.89 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-04 94.44 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 5.56 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 11.11 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 16.67 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 22.22 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 27.78 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 33.33 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 38.89 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 44.44 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 55.56 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 61.11 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 66.67 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 72.22 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 77.78 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 83.33 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 88.89 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-05 94.44 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 0 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 5 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 10 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 15 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 20 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 30 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 35 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 40 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 45 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 55 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 60 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 65 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 70 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 80 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 85 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 90 %[95m[EPG GRAB] [39mOCSGeants.fr (78/113) : 2025-02-06 95 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 5.56 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 11.11 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 16.67 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 22.22 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 27.78 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 33.33 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 38.89 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 44.44 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 55.56 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 61.11 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 66.67 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 72.22 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 77.78 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 83.33 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 88.89 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-04 94.44 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 5.56 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 11.11 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 16.67 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 22.22 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 27.78 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 33.33 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 38.89 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 44.44 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 55.56 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 61.11 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 66.67 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 72.22 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 77.78 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 83.33 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 88.89 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-05 94.44 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 0 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 5 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 10 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 15 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 20 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 30 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 30 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 35 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 40 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 45 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 55 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 60 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 65 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 70 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 80 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 85 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 90 %[95m[EPG GRAB] [39mOCSMax.fr (79/113) : 2025-02-06 95 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mParisPremiere.fr (80/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlanetePlus.fr (81/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPlaneteAction.fr (82/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mPLANETEJustice.fr (83/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-01-29 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-01-30 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-01-31 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-02-01 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-02-02 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-02-03 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mRMC.fr (84/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRMCDecouverte.fr (85/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-04 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-05 | [32mOK[39m - Tele7Jours
-[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 4.17 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 8.33 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 12.5 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 16.67 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 20.83 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 29.17 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 37.5 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 41.67 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 45.83 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 54.17 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 58.33 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 62.5 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 70.83 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 79.17 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 83.33 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 87.5 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 91.67 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 95.83 %[95m[EPG GRAB] [39mRTLTVI.be (86/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 3.23 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 6.45 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 9.68 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 12.9 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 16.13 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 19.35 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 22.58 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 25.81 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 29.03 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 32.26 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 35.48 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 38.71 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 41.94 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 45.16 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 48.39 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 51.61 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 54.84 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 58.06 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 61.29 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 64.52 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 67.74 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 70.97 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 74.19 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 77.42 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 80.65 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 83.87 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 87.1 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 90.32 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 93.55 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 96.77 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-04 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 3.45 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 6.9 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 10.34 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 13.79 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 17.24 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 20.69 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 24.14 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 27.59 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 31.03 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 34.48 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 37.93 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 41.38 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 44.83 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 48.28 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 51.72 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 55.17 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 58.62 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 62.07 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 65.52 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 68.97 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 72.41 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 75.86 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 79.31 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 82.76 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 86.21 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 89.66 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 93.1 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 96.55 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-05 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 3.7 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 7.41 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 11.11 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 14.81 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 18.52 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 22.22 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 25.93 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 29.63 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 37.04 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 40.74 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 44.44 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 48.15 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 51.85 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 55.56 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 59.26 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 62.96 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 70.37 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 74.07 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 77.78 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 81.48 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 85.19 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 88.89 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 92.59 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 96.3 %[95m[EPG GRAB] [39mRTSDeux.ch (87/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 3.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 6.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 9.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 12.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 15.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 18.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 21.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 28.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 31.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 34.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 37.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 40.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 43.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 46.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 53.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 56.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 59.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 62.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 65.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 68.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 71.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 78.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 81.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 84.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 87.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 90.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 93.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 96.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-04 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 3.45 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 6.9 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 10.34 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 13.79 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 17.24 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 20.69 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 24.14 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 27.59 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 31.03 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 34.48 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 37.93 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 41.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 44.83 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 48.28 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 51.72 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 55.17 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 58.62 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 62.07 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 65.52 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 68.97 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 72.41 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 75.86 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 79.31 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 82.76 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 86.21 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 89.66 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 93.1 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 96.55 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-05 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 3.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 6.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 9.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 12.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 15.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 18.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 21.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 28.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 31.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 34.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 37.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 40.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 43.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 46.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 53.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 56.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 59.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 62.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 65.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 68.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 71.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 78.13 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 81.25 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 84.38 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 87.5 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 90.63 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 93.75 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 96.88 %[95m[EPG GRAB] [39mRTSUn.ch (88/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mScienceEtVieTV.fr (89/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 4 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 8 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 12 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 16 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 20 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 24 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 28 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 32 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 36 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 40 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 44 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 48 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 52 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 56 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 60 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 64 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 68 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 72 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 76 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 80 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 84 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 88 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 92 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 96 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-04 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 4.17 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 8.33 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 12.5 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 16.67 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 20.83 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 25 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 29.17 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 33.33 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 37.5 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 41.67 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 45.83 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 54.17 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 58.33 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 62.5 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 66.67 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 70.83 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 75 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 79.17 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 83.33 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 87.5 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 91.67 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 95.83 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-05 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 4 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 8 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 12 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 16 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 20 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 24 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 28 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 32 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 36 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 40 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 44 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 48 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 52 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 56 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 60 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 64 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 68 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 72 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 76 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 80 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 84 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 88 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 92 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 96 %[95m[EPG GRAB] [39mSeasons.fr (90/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 8.33 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 16.67 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 41.67 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 58.33 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 83.33 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 91.67 %[95m[EPG GRAB] [39mRMCSport1.fr (91/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 14.29 %[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 28.57 %[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 42.86 %[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 57.14 %[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 71.43 %[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 85.71 %[95m[EPG GRAB] [39mRMCSport2.fr (92/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 3.85 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 7.69 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 11.54 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 15.38 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 19.23 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 23.08 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 26.92 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 30.77 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 34.62 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 38.46 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 42.31 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 46.15 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 53.85 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 57.69 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 61.54 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 65.38 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 69.23 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 73.08 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 76.92 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 80.77 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 84.62 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 88.46 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 92.31 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 96.15 %[95m[EPG GRAB] [39mSyfy.fr (93/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 3.7 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 7.41 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 11.11 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 14.81 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 18.52 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 22.22 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 25.93 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 29.63 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 37.04 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 40.74 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 44.44 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 48.15 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 51.85 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 55.56 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 59.26 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 62.96 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 70.37 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 74.07 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 77.78 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 81.48 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 85.19 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 88.89 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 92.59 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 96.3 %[95m[EPG GRAB] [39mTF1.fr (94/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-04 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-05 | [32mOK[39m - SFR
-[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 4.76 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 9.52 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 14.29 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 19.05 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 23.81 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 28.57 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 38.1 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 42.86 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 47.62 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 52.38 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 57.14 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 61.9 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 71.43 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 76.19 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 80.95 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 85.71 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 90.48 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 95.24 %[95m[EPG GRAB] [39mTMC.fr (95/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTouteHistoire.fr (96/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5Monde.fr (97/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mTV5MondeAfrique.fr (98/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 2.33 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 4.65 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 6.98 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 9.3 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 11.63 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 13.95 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 16.28 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 18.6 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 20.93 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 23.26 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 25.58 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 27.91 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 30.23 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 32.56 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 34.88 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 37.21 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 39.53 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 41.86 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 44.19 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 46.51 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 48.84 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 51.16 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 53.49 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 55.81 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 58.14 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 60.47 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 62.79 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 65.12 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 67.44 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 69.77 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 72.09 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 74.42 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 76.74 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 79.07 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 81.4 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 83.72 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 86.05 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 88.37 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 90.7 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 93.02 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 95.35 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-04 97.67 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 [31mRate limited, waiting 30s (1)[39m[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 2.33 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 4.65 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 6.98 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 9.3 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 11.63 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 13.95 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 16.28 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 18.6 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 20.93 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 23.26 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 25.58 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 27.91 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 30.23 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 32.56 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 34.88 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 37.21 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 39.53 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 41.86 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 44.19 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 46.51 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 48.84 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 51.16 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 53.49 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 55.81 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 58.14 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 60.47 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 62.79 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 65.12 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 67.44 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 69.77 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 72.09 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 74.42 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 76.74 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 79.07 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 81.4 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 83.72 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 86.05 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 88.37 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 90.7 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 93.02 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 95.35 %[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-05 97.67 % | [32mOK[39m - Telecablesat
-[95m[EPG GRAB] [39mTV5MondeEurope.fr (99/113) : 2025-02-06 | [32mOK[39m - TV5Global
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mUshuaiaTV.fr (100/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-01-29 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-01-30 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-01-31 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-02-01 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-02-02 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-02-03 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mVoyage.fr (101/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mW9.fr (102/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusGrandEcran.fr (103/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusSport360.fr (104/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-02-04 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-02-05 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusFoot.fr (105/113) : 2025-02-06 | [32mOK[39m - Orange
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-01-31 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04 16.67 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04 33.33 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04 66.67 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04 83.33 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-04 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05 16.67 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05 33.33 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05 66.67 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05 83.33 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-05 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06 16.67 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06 83.33 %[95m[EPG GRAB] [39mCanalPlusMotoGP.fr (106/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04 16.67 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04 33.33 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04 66.67 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04 83.33 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-04 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05 16.67 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05 33.33 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05 66.67 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05 83.33 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-05 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 11.11 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 22.22 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 33.33 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 44.44 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 55.56 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 66.67 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 77.78 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 88.89 %[95m[EPG GRAB] [39mCanalPlusFormula1.fr (107/113) : 2025-02-06 100 % | [32mOK[39m - TeleLoisirs
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-02 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-03 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 12.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 25 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 37.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 62.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 75 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 87.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 12.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 25 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 37.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 50 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 62.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 75 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-04 87.5 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 12.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 25 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 37.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 62.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 75 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 87.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 0 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 12.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 25 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 37.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 50 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 62.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 75 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-05 87.5 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 0 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 12.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 37.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 62.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 87.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 0 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 12.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 25 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 37.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 50 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 62.5 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 75 %[95m[EPG GRAB] [39mCanalPlusPremierLeague.fr (108/113) : 2025-02-06 87.5 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 4 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 8 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 12 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 16 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 20 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 24 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 28 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 32 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 36 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 40 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 44 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 48 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 52 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 56 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 60 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 64 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 68 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 72 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 76 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 80 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 84 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 88 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 92 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 96 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 4 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 8 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 12 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 16 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 20 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 24 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 28 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 32 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 36 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 40 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 44 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 48 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 52 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 56 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 60 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 64 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 68 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 72 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 76 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 80 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 84 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 88 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 92 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-02 96 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 6.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 13.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 20 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 26.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 33.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 40 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 46.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 53.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 60 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 66.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 73.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 80 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 86.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 93.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 6.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 13.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 20 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 26.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 33.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 40 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 46.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 53.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 60 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 66.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 73.33 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 80 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 86.67 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-03 93.33 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-04 0 % | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport1.af (109/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 4.35 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 8.7 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 13.04 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 17.39 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 21.74 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 26.09 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 30.43 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 34.78 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 39.13 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 43.48 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 47.83 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 52.17 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 56.52 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 60.87 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 65.22 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 69.57 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 73.91 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 78.26 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 82.61 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 86.96 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 91.3 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 95.65 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 4.35 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 8.7 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 13.04 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 17.39 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 21.74 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 26.09 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 30.43 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 34.78 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 39.13 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 43.48 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 47.83 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 52.17 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 56.52 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 60.87 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 65.22 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 69.57 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 73.91 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 78.26 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 82.61 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 86.96 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 91.3 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-02 95.65 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 4.76 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 9.52 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 14.29 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 19.05 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 23.81 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 28.57 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 33.33 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 38.1 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 42.86 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 47.62 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 52.38 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 57.14 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 61.9 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 66.67 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 71.43 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 76.19 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 80.95 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 85.71 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 90.48 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 95.24 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 4.76 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 9.52 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 14.29 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 19.05 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 23.81 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 28.57 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 33.33 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 38.1 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 42.86 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 47.62 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 52.38 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 57.14 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 61.9 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 66.67 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 71.43 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 76.19 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 80.95 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 85.71 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 90.48 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-03 95.24 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-04 0 % | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport2.af (110/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 5 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 10 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 15 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 20 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 25 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 30 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 35 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 40 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 45 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 50 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 55 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 60 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 65 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 70 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 75 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 80 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 85 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 90 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 95 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 5 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 10 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 15 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 20 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 25 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 30 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 35 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 40 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 45 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 50 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 55 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 60 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 65 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 70 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 75 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 80 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 85 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 90 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-02 95 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 4.76 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 9.52 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 14.29 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 19.05 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 23.81 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 28.57 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 33.33 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 38.1 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 42.86 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 47.62 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 52.38 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 57.14 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 61.9 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 66.67 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 71.43 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 76.19 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 80.95 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 85.71 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 90.48 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 95.24 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 4.76 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 9.52 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 14.29 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 19.05 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 23.81 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 28.57 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 33.33 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 38.1 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 42.86 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 47.62 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 52.38 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 57.14 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 61.9 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 66.67 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 71.43 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 76.19 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 80.95 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 85.71 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 90.48 %[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-03 95.24 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport3.af (111/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 5.26 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 10.53 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 15.79 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 21.05 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 26.32 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 31.58 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 36.84 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 42.11 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 47.37 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 52.63 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 57.89 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 63.16 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 68.42 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 73.68 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 78.95 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 84.21 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 89.47 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 94.74 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 5.26 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 10.53 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 15.79 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 21.05 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 26.32 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 31.58 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 36.84 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 42.11 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 47.37 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 52.63 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 57.89 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 63.16 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 68.42 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 73.68 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 78.95 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 84.21 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 89.47 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-02 94.74 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 7.14 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 14.29 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 21.43 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 28.57 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 35.71 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 42.86 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 50 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 57.14 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 64.29 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 71.43 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 78.57 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 85.71 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 92.86 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 7.14 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 14.29 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 21.43 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 28.57 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 35.71 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 42.86 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 50 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 57.14 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 64.29 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 71.43 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 78.57 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 85.71 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-03 92.86 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-04[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-04 0 %[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-04 0 % | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport4.af (112/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-01-29 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-01-30 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-01-31 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-01 | [33mOK [39m- From Cache 
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 5 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 10 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 15 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 20 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 25 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 30 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 35 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 40 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 45 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 50 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 55 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 60 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 65 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 70 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 75 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 80 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 85 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 90 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 95 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 0 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 5 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 10 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 15 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 20 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 25 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 30 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 35 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 40 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 45 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 50 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 55 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 60 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 65 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 70 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 75 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 80 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 85 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 90 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-02 95 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 10 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 20 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 30 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 40 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 50 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 60 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 70 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 80 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 90 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 0 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 10 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 20 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 30 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 40 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 50 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 60 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 70 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 80 %[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-03 90 % | [32mOK[39m - MyCanal
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-04 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-05 | [31mHS[39m
-[95m[EPG GRAB] [39mCanalPlusSport5.af (113/113) : 2025-02-06 | [31mHS[39m
-[95m[EPG GRAB] [39mRécupération du guide des programmes terminée...
-[36m[LOGS] [39m Export des logs vers var/logs/logs20250130051739.json
-[34m[EXPORT] [32mXML Valide[39m
-[34m[EXPORT] [39mCompression du XMLTV en GZ...
-[34m[EXPORT] [39mGZ : [32mOK[39m (var/export/xmltv.xml.'.gz')
-[34m[EXPORT] [39mCompression du XMLTV en ZIP...
-[34m[EXPORT] [39mZIP : [32mOK[39m (var/export/xmltv.zip)
+First, rewinding head to replay your work on top of it...
+Fast-forwarded master to origin/master.
+Could not open input file: /home/mohammed/dev/epg/grabbers/XML-TV-Fr/example/script_all.php
+Os: "Linux"
+grabber_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr
+grabber_run_cmd : php /home/mohammed/dev/epg/grabbers/XML-TV-Fr/example/script_all.php
+xmltv_files_dir : /home/mohammed/dev/epg/xmltv_files
+runner_dir : /home/mohammed/dev/epg/grab-runners
+out_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr/var/export
+archives_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr/var/export/archives
+XMLTV  (Racacax) .............................................................................. Begin
+.......................................................................... step 1: Resync with github
+resync with Git repository done
+.........................................................................................step 2: init
+saving "channels.json" as "channels.old.json" on Grabber config directory ...
+
+done.
+(force) update runners and configs from Git repository ...
+
+done.
+copying "channels.json" file to Grabber config directory ...
+done.
+copying "config.json" file to Grabber config directory ...
+
+done.
+everything is alright, nothing to do
+
+........................................................................................ step 3: Grabing
+update xmltv grabber from racacax Git repository ...
+
+done.
+Grabing error ....................................... [KO]
+XMLTV   ....................................................................................... end
