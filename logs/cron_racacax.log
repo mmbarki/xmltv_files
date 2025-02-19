@@ -1,10 +1,9 @@
 Your branch is up to date with 'origin/master'.
-HEAD is now at fa6711f build file: guide_AR_10022025_03_20.xmltv
+HEAD is now at 0e6c4da build file: guide_AR_17022025_03_20.xmltv
 Your branch is up to date with 'origin/master'.
 HEAD is now at 567acd3 Update channels.json- menage
 Your branch is up to date with 'origin/master'.
-First, rewinding head to replay your work on top of it...
-Fast-forwarded master to origin/master.
+Current branch master is up to date.
 Could not open input file: /home/mohammed/dev/epg/grabbers/XML-TV-Fr/example/script_all.php
 Os: "Linux"
 grabber_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr
