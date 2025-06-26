@@ -1029,3 +1029,59 @@ HEAD is now at 90695ea + racacax run script: add 'git_checkout_revision' option 
 [34m[EXPORT] [39mGZ : [32mOK[39m (var/export/xmltv.xml.'.gz')
 [34m[EXPORT] [39mCompression du XMLTV en ZIP...
 [34m[EXPORT] [39mZIP : [32mOK[39m (var/export/xmltv.zip)
+[master fef57fb] build file: guide_FR_26062025_05_45.xmltv
+ 3 files changed, 294571 insertions(+), 74276 deletions(-)
+ create mode 100644 files/guide_FR_26062025_05_45.xmltv
+ rewrite logs/cron_racacax.log (73%)
+Os: "Linux"
+git_racacax_revision: "v3.2.1"
+git_branch : v3.2.1
+grabber_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr
+grabber_run_cmd : php /home/mohammed/dev/epg/grabbers/XML-TV-Fr/manager.php export
+xmltv_files_dir : /home/mohammed/dev/epg/xmltv_files
+runner_dir : /home/mohammed/dev/epg/grab-runners
+out_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr/var/export
+archives_dir : /home/mohammed/dev/epg/grabbers/XML-TV-Fr/var/export/archives
+XMLTV  (Racacax) .............................................................................. Begin
+
+
+.......................................................................... step 1: Resync with github
+Xmltv files: (force) update from Git repository ...
+done.
+
+
+.........................................................................................step 2: init
+saving "channels.json" as "channels.old.json" on Grabber config directory ...
+done.
+
+Runners: (force) update scripts and configs from Git repository ...
+done.
+
+copying "channels.json" file to Grabber config directory ...
+done.
+
+copying "config.json" file to Grabber config directory ...
+done.
+
+moving last ".xmltv" file to "out/archives" (except guide.xmltv) on Grabber directory ...
+done.
+
+
+........................................................................................ step 3: Grabing
+Grabbers: update grabber from racacax Git repository ...
+resync with Git repository done, revision : v3.2.1
+
+done.
+
+Grabing done ................................................................................... [OK]
+xmltv.xml copied to "guide_FR_26062025_05_45.xmltv
+
+copying log files done.
+
+
+................................................................................. step 4: Push to github
+file "guide_FR_26062025_05_45.xmltv" pushed to Git repository
+
+
+
+XMLTV   ....................................................................................... end
